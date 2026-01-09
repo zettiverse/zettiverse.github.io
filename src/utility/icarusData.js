@@ -160,6 +160,12 @@ export function processItemTableData(rows = []) {
                 //description: cleanDescription(itemRecord.Description),
                 icon: cleanItemTableIconPath(itemRecord.Icon),
             };
+            itemTableData[itemRecord.Name] = {
+                id: itemRecord.Name,
+                displayName: cleanItemTableDisplayName(itemRecord.DisplayName),
+                //description: cleanDescription(itemRecord.Description),
+                icon: cleanItemTableIconPath(itemRecord.Icon),
+            };
         }
     });
 
