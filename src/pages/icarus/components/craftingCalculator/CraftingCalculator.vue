@@ -77,7 +77,7 @@
                         <n-image
                             class="icon"
                             width="32"
-                            :src="`/icarus-game/ItemIcons/${recipeData[componentName]?.iconPath}.png`"
+                            :src="`/icarus-game/ItemIcons/${itemTableData[item.id]?.icon.split('.')[0]}.png`"
                             fallback-src="/icarus-game/Images/question-mark.png"
                             :preview-disabled="false"
                         />

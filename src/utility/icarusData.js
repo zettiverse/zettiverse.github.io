@@ -100,9 +100,9 @@ const postProcessByItem = Object.freeze({
     }, */
 });
 
-/* const cleanItemTableName = (itemName = '') => {
+const cleanItemTableName = (itemName = '') => {
     return itemName.replace(/^Item_Kit_/, '').replace(/^Item_/, '');
-}; */
+}; 
 
 const cleanItemTableDisplayName = (displayName = '') => {
     const matchIndex = 3;
@@ -151,7 +151,7 @@ export function processItemTableData(rows = []) {
     const itemTableData = {};
 
     rows.forEach((itemRecord) => {
-        const itemId = itemRecord.Name;
+        const itemId = cleanItemTableName(itemRecord.Name);
 
         if (!itemTableData[itemId]) {
             itemTableData[itemId] = {
