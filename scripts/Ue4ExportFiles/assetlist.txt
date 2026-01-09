@@ -1,8 +1,0 @@
-[Text]
-#
-
-[Raw]
-#
-
-[Texture]
-Icarus/Content/Assets/2DArt/*
