@@ -74,6 +74,14 @@
                 </div>
                 <div>
                     <div v-for="item in requiredComponents" :key="item.id" class="component-row flex align-items-center">
+                        <n-image
+                            class="icon"
+                            width="32"
+                            :alt="`/icarus-game/ItemIcons/${itemTableData[item.id]?.icon}.png`"
+                            :src="`/icarus-game/ItemIcons/${itemTableData['Item_' + item.id]['icon'].split('.')[0]}.png`"
+                            fallback-src="/icarus-game/Images/question-mark.png"
+                            :preview-disabled="false"
+                        />
                         <div class="label">{{ item.quantity }} {{ recipeData[item.id]?.label ?? itemLabelMap[item.id] ?? item.id }}</div>
                         <component-source-picker :component-id="item.id" @change="triggerCalc()"></component-source-picker>
                     </div>
