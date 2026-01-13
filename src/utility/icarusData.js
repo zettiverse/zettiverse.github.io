@@ -163,13 +163,39 @@ export function processItemTableData(rows = []) {
             itemTableData[itemRecord.Name] = {
                 id: itemRecord.Name,
                 displayName: cleanItemTableDisplayName(itemRecord.DisplayName),
-                //description: cleanDescription(itemRecord.Description),
                 icon: cleanItemTableIconPath(itemRecord.Icon),
             };
+            if (itemRecord.Name.includes('Platinum_Sheath')) {
+                itemTableData['Platinum_Shealth'] = fixItemRecordData('Platinum_Shealth', itemTableData[itemRecord.Name]);
+            }
         }
+
     });
 
     return itemTableData;
+}
+
+export function fixItemRecordData(missing_id, correct_data) {
+        const newItemRecord = {
+            id: missing_id,
+            displayName: correct_data.displayName,
+            icon: correct_data.icon
+        };
+        return newItemRecord;
+}
+
+export function fixRecipeData(missing_id, correct_data) {
+        const newRecipeData = {
+            id: missing_id,
+            label: correct_data.label,
+            iconPath: correct_data.iconPath,
+
+            inputs: correct_data.inputs,
+            sources: correct_data.sources,
+            preferredSource: correct_data.preferredSource,
+            outputQuantity: correct_data.outputQuantity,
+        };
+        return newRecipeData;
 }
 
 export function processRecipeData(rows = [], { itemTemplateData = {}, itemStaticData = {}, itemTableData = {} } = {}) {
@@ -241,6 +267,12 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
             outputQuantity: 1,
         };
 
+        if (id == 'Platinum_Sheath') {
+            recipeData['Platinum_Shealth'] = fixRecipeData('Platinum_Shealth', recipeData['Platinum_Sheath']);
+        }
+        if (id == 'Refined_Wood') {
+            recipeData['Wood_Refined'] = fixRecipeData('Wood_Refined', recipeData['Refined_Wood']);
+        }
         // build list of input item objects
         (recipe.Inputs || []).forEach((input) => {
             recipeData[id].inputs.push({

@@ -30,7 +30,7 @@
                     <div class="flex-grow-1">
                         <div class="flex align-items-center pb-1">
                             <div class="flex-shrink">
-                                <div class="label text-overflow-ellipsis">{{ recipeData[item.id].label }}</div>
+                                <div class="label text-overflow-ellipsis">{{ recipeData[item.id]?.iconPath }} - {{ recipeData[item.id].label }}</div>
                             </div>
                         </div>
                         <div class="flex align-items-center flex-grow-1">
@@ -81,7 +81,7 @@
                             fallback-src="/icarus-game/Images/question-mark.png"
                             :preview-disabled="false"
                         />
-                        <div class="label">{{ item.quantity }} {{ recipeData[item.id]?.label ?? itemLabelMap[item.id] ?? item.id }}</div>
+                        <div class="label">{{ item.id }} - {{ item.quantity }} {{ recipeData[item.id]?.label ?? itemLabelMap[item.id] ?? item.id }}</div>
                         <component-source-picker :component-id="item.id" @change="triggerCalc()"></component-source-picker>
                     </div>
                 </div>
