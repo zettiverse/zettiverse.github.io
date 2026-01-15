@@ -273,6 +273,21 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
         if (id == 'Refined_Wood') {
             recipeData['Wood_Refined'] = fixRecipeData('Wood_Refined', recipeData['Refined_Wood']);
         }
+        if (id == 'Fill_Oxygen_Container_Metal' || id == 'Fill_Oxygen_Container') {
+            recipeData[id].iconPath = 'Voxels/ITEM_Ore_Oxite';
+        }
+        if (id == 'Ice') {
+            recipeData[id].iconPath = 'Resources/ITEM_Ice';
+        }
+        if (/^Biofuel\d/.test(id) || id == 'Biofuel_9') {
+            recipeData[id].iconPath = 'Icons/Icon_RecipeBiofuel';
+        }
+        if (id == 'Biofuel_9') {
+            recipeData[id].label = 'Biofuel (Guano)';
+        }
+        if (recipeData[id].iconPath == '') {
+            console.log("MISSING ICON: " + id + " is missing an icon!");
+        }
         // build list of input item objects
         (recipe.Inputs || []).forEach((input) => {
             recipeData[id].inputs.push({
