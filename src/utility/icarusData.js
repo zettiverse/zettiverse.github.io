@@ -184,6 +184,25 @@ export function fixItemRecordData(missing_id, correct_data) {
         return newItemRecord;
 }
 
+export function fixArmors(recipeData, armor_setname) {
+    const armor_pieces = ['Head', 'Chest', 'Arms', 'Arm', 'Legs', 'Leg', 'Feet']
+    for (let armor of armor_pieces) {
+        let item = armor_setname + '_' + armor + '_Armor';
+        let file_prefix = 'Armour/ITEM_';
+        if (!recipeData[item]) {
+            console.log('Could not find a ' + armor_setname + ' ' + armor);
+            continue;
+        }
+        if (armor_setname.includes('Obsidian')) {
+            file_prefix = 'Armour/T_ITEM_';
+        }
+        recipeData[item].label = item.replaceAll('_', ' ');
+        recipeData[item].iconPath = file_prefix + armor_setname + '_' + armor;
+    }
+    
+    return recipeData;
+}
+
 export function fixRecipeData(missing_id, correct_data) {
         const newRecipeData = {
             id: missing_id,
@@ -206,7 +225,7 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
         recipeDataByName[recipe.Name] = recipe;
     });
 
-    const recipeData = {};
+    let recipeData = {};
 
     rows.forEach((recipe) => {
         //const maxFilePathLength = 100;
@@ -285,6 +304,7 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
         if (id == 'Biofuel_9') {
             recipeData[id].label = 'Biofuel (Guano)';
         }
+            
         if (recipeData[id].iconPath == '') {
             console.log("MISSING ICON: " + id + " is missing an icon!");
         }
@@ -311,6 +331,15 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
             }
         });
     });
+
+    recipeData = fixArmors(recipeData, 'Hunter');
+    recipeData = fixArmors(recipeData, 'Composite');
+    recipeData = fixArmors(recipeData, 'Obsidian');
+    recipeData = fixArmors(recipeData, 'Heavy_Obsidian');
+    recipeData['Hunter_Head_Armor'].iconPath = 'Armour/T_ITEM_Hunter_Head';
+    recipeData['Composite_Arm_Armor'].iconPath = 'Armour/ITEM_Composite_Arms';
+    recipeData['Composite_Leg_Armor'].iconPath = 'Armour/ITEM_Composite_Legs';
+    recipeData['Heavy_Obsidian_Arm_Armor'].iconPath = 'Armour/T_ITEM_Heavy_Obsidian_Arms';
 
     return postProcessData(recipeData);
 }

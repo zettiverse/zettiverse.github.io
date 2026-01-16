@@ -18,7 +18,7 @@
                 <div class="m-2 text-200 flex align-items-center">
                     <n-text depth="3" class="flex-shrink-0">Supports game version</n-text>
                     <div class="game-version">
-                        <n-input :value="weeklyInfo['week']" readonly></n-input>
+                        <n-input :value="'W' + weeklyInfo['week']" readonly></n-input>
                     </div>
                     <n-text depth="3">{{ weeklyInfo['date'] }}</n-text>
                 </div>
