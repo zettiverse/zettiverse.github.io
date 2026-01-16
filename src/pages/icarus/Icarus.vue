@@ -18,9 +18,9 @@
                 <div class="m-2 text-200 flex align-items-center">
                     <n-text depth="3" class="flex-shrink-0">Supports game version</n-text>
                     <div class="game-version">
-                        <n-input :value="'v2.2.43.133489'" readonly></n-input>
+                        <n-input :value="weeklyInfo['week']" readonly></n-input>
                     </div>
-                    <n-text depth="3">2025/02/20</n-text>
+                    <n-text depth="3">{{ weeklyInfo['date'] }}</n-text>
                 </div>
             </div>
             <tabs-view class="tab-view flex-1"></tabs-view>
@@ -59,6 +59,7 @@ import { Hammer } from '@vicons/fa';
 import ItemSearchView from '@/pages/icarus/components/craftingCalculator/ItemSearchView.vue';
 import TabsView from '@/pages/icarus/components/TabsView.vue';
 import { useIcarusStore } from '@/store/icarus';
+import weekly from '@/weekly.json';
 
 const icarusStore = useIcarusStore();
 icarusStore.loadRecipeData();
@@ -78,13 +79,14 @@ export default {
     components: {
         Hammer,
         ItemSearchView,
-        TabsView,
+        TabsView
     },
     props: [],
     data() {
         return {
             showWelcomeAlert: isAlertVisible('welcome'),
             showWhatsNewAlert: isAlertVisible('whatsNew'),
+            weeklyInfo: weekly,
         };
     },
     computed: {},
