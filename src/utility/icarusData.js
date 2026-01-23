@@ -190,6 +190,7 @@ export function fixArmors(recipeData, armor_setname) {
         let item = armor_setname + '_' + armor + '_Armor';
         let file_prefix = 'Armour/ITEM_';
         if (!recipeData[item]) {
+            // Sometimes it's singular, sometimes it's plural -_-
             console.log('Could not find a ' + armor_setname + ' ' + armor);
             continue;
         }

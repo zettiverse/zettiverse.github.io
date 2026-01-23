@@ -14764,8 +14764,18 @@
             "AdditionalStats": {
                 "(Value=\"BaseComfortLevel_+\")": 4
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -48978,8 +48988,18 @@
             "AdditionalStats": {
                 "(Value=\"BaseComfortLevel_+\")": 4
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -73809,6 +73829,78 @@
                     },
                     {
                         "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Spotlight",
+            "Meshable": {
+                "RowName": "Mesh_Spotlight_Tripod"
+            },
+            "Itemable": {
+                "RowName": "Item_Spotlight"
+            },
+            "Interactable": {
+                "RowName": "Deployable_No_Power_Toggle"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Spotlight"
+            },
+            "Durable": {
+                "RowName": "Deployable_250"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Resource": {
+                "RowName": "Electric_Light"
+            },
+            "Audio": {
+                "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
+            "CraftingExperience": 0,
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
                     },
                     {
                         "TagName": "Traits.Actionable"
@@ -108774,6 +108866,9 @@
             "Processing": {
                 "RowName": "Anvil_Bench_T3"
             },
+            "Thermal": {
+                "RowName": "Forge"
+            },
             "Experience": {
                 "RowName": "CraftedItem"
             },
@@ -108833,6 +108928,9 @@
                     },
                     {
                         "TagName": "Traits.Processing"
+                    },
+                    {
+                        "TagName": "Traits.Thermal"
                     }
                 ],
                 "ParentTags": []
@@ -112298,6 +112396,77 @@
                     },
                     {
                         "TagName": "Traits.Fillable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Shroud_Light",
+            "Meshable": {
+                "RowName": "Mesh_Ceiling_Shroud_Light"
+            },
+            "Itemable": {
+                "RowName": "Item_Shroud_Light"
+            },
+            "Interactable": {
+                "RowName": "Deployable_No_Power_Toggle"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Shroud_Light"
+            },
+            "Durable": {
+                "RowName": "Deployable_750"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Resource": {
+                "RowName": "Electric_Light_250w"
+            },
+            "Audio": {
+                "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 6
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -142486,8 +142655,18 @@
             "AdditionalStats": {
                 "(Value=\"BaseComfortLevel_+\")": 4
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -142519,7 +142698,7 @@
         {
             "Name": "Exposed_Wall_Light",
             "Meshable": {
-                "RowName": "Mesh_Generic_Machining"
+                "RowName": "Mesh_Generic_Fabricator"
             },
             "Itemable": {
                 "RowName": "Item_Exposed_Wall_Light"
@@ -142557,8 +142736,18 @@
             "AdditionalStats": {
                 "(Value=\"BaseComfortLevel_+\")": 4
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -142590,7 +142779,7 @@
         {
             "Name": "Single_Ceiling_Light",
             "Meshable": {
-                "RowName": "Mesh_Generic_Machining"
+                "RowName": "Mesh_Generic_Fabricator"
             },
             "Itemable": {
                 "RowName": "Item_Single_Ceiling_Light"
@@ -142661,7 +142850,7 @@
         {
             "Name": "Exposed_Ceiling_Light",
             "Meshable": {
-                "RowName": "Mesh_Generic_Machining"
+                "RowName": "Mesh_Generic_Fabricator"
             },
             "Itemable": {
                 "RowName": "Item_Exposed_Ceiling_Light"
@@ -143660,7 +143849,7 @@
         {
             "Name": "Exposed_Wall_Light_Foggy",
             "Meshable": {
-                "RowName": "Mesh_Generic_Machining"
+                "RowName": "Mesh_Generic_Fabricator"
             },
             "Itemable": {
                 "RowName": "Item_Exposed_Wall_Light_Foggy"
@@ -143698,8 +143887,18 @@
             "AdditionalStats": {
                 "(Value=\"BaseComfortLevel_+\")": 4
             },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
             "Generated_Tags": {
                 "GameplayTags": [
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
                     {
                         "TagName": "Traits.Meshable"
                     },
@@ -143731,7 +143930,7 @@
         {
             "Name": "Exposed_Ceiling_Light_Foggy",
             "Meshable": {
-                "RowName": "Mesh_Generic_Machining"
+                "RowName": "Mesh_Generic_Fabricator"
             },
             "Itemable": {
                 "RowName": "Item_Exposed_Ceiling_Light_Foggy"
@@ -183851,6 +184050,204 @@
                     }
                 ],
                 "ParentTags": []
+            }
+        },
+        {
+            "Name": "AnimalCarcass_Tame_Cat_B",
+            "Meshable": {
+                "RowName": "Mesh_Carcass_Tame_Cat_B"
+            },
+            "Itemable": {
+                "RowName": "Item_Carcass_Cat_A"
+            },
+            "Interactable": {
+                "RowName": "AnimalCorpse"
+            },
+            "Hitable": {
+                "RowName": "AnimalCarcass"
+            },
+            "Equippable": {
+                "RowName": "Equippable_Carcass_Small"
+            },
+            "Focusable": {
+                "RowName": "Focusable_Carcass_Hip"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Utilityslot_Drop"
+            },
+            "Durable": {
+                "RowName": "Carcass_Small"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "Carcass"
+            },
+            "CraftingExperience": 400,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Hitable"
+                    },
+                    {
+                        "TagName": "Traits.Equippable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "AnimalCarcass_Tame_Cat_C",
+            "Meshable": {
+                "RowName": "Mesh_Carcass_Tame_Cat_C"
+            },
+            "Itemable": {
+                "RowName": "Item_Carcass_Cat_A"
+            },
+            "Interactable": {
+                "RowName": "AnimalCorpse"
+            },
+            "Hitable": {
+                "RowName": "AnimalCarcass"
+            },
+            "Equippable": {
+                "RowName": "Equippable_Carcass_Small"
+            },
+            "Focusable": {
+                "RowName": "Focusable_Carcass_Hip"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Utilityslot_Drop"
+            },
+            "Durable": {
+                "RowName": "Carcass_Small"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "Carcass"
+            },
+            "CraftingExperience": 400,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Hitable"
+                    },
+                    {
+                        "TagName": "Traits.Equippable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
             }
         }
     ]
