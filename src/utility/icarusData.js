@@ -309,6 +309,10 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
         if (recipeData[id].iconPath == '') {
             console.log("MISSING ICON: " + id + " is missing an icon!");
         }
+        if (id == 'Waterwheel') {
+            recipeData[id].label = 'Waterwheel';
+            recipeData[id].iconPath = 'Deployables/ITEM_WaterWheel_Generator';
+        }
         // build list of input item objects
         (recipe.Inputs || []).forEach((input) => {
             recipeData[id].inputs.push({
