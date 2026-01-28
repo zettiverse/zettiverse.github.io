@@ -194,7 +194,7 @@ export function fixArmors(recipeData, armor_setname) {
             console.log('Could not find a ' + armor_setname + ' ' + armor);
             continue;
         }
-        if (armor_setname.includes('Obsidian')) {
+        if (armor_setname.includes('Obsidian') || armor_setname.includes('Ghillie')) {
             file_prefix = 'Armour/T_ITEM_';
         }
         recipeData[item].label = item.replaceAll('_', ' ');
@@ -320,6 +320,13 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
                 recipeData[id].label = recipeData[id].label + ' (Ore)';
             }
         }
+        if (id == 'Solar_Panel_Repair') {
+            recipeData[id].label = 'Solar Panel Repair (Quest Item?)';
+        }
+        if (id.includes('Creature_Bait')) {
+            recipeData[id].label = id.replaceAll('_', ' ');
+            recipeData[id].iconPath = 'Resources/T_ITEM_CreatureBait_' + id.split('_')[2];
+        }
         // build list of input item objects
         (recipe.Inputs || []).forEach((input) => {
             recipeData[id].inputs.push({
@@ -348,6 +355,7 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
     recipeData = fixArmors(recipeData, 'Composite');
     recipeData = fixArmors(recipeData, 'Obsidian');
     recipeData = fixArmors(recipeData, 'Heavy_Obsidian');
+    recipeData = fixArmors(recipeData, 'Ghillie');
     recipeData['Hunter_Head_Armor'].iconPath = 'Armour/T_ITEM_Hunter_Head';
     recipeData['Composite_Arm_Armor'].iconPath = 'Armour/ITEM_Composite_Arms';
     recipeData['Composite_Leg_Armor'].iconPath = 'Armour/ITEM_Composite_Legs';
