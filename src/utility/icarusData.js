@@ -313,6 +313,13 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
             recipeData[id].label = 'Waterwheel';
             recipeData[id].iconPath = 'Deployables/ITEM_WaterWheel_Generator';
         }
+        if (id.includes('Iron_') && recipeData[id].label.includes('Aluminium')) {
+            if (id.includes('_Ingot')) {
+                recipeData[id].label = recipeData[id].label + ' (Ingot)';
+            } else {
+                recipeData[id].label = recipeData[id].label + ' (Ore)';
+            }
+        }
         // build list of input item objects
         (recipe.Inputs || []).forEach((input) => {
             recipeData[id].inputs.push({
