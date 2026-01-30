@@ -25930,14 +25930,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -26060,14 +26060,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -26190,14 +26190,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -26320,14 +26320,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -26450,14 +26450,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -26580,14 +26580,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -51394,14 +51394,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -51525,14 +51525,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -51656,14 +51656,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -51787,14 +51787,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -51918,14 +51918,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -52049,14 +52049,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -52180,14 +52180,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -80827,6 +80827,9 @@
             },
             "Audio": {
                 "RowName": "WoodDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseCleaningEffectiveness_%\")": 100
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -112502,14 +112505,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112559,14 +112562,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112616,14 +112619,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112673,14 +112676,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112725,14 +112728,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112777,14 +112780,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112829,14 +112832,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112886,14 +112889,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112943,14 +112946,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -112995,14 +112998,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113052,14 +113055,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113109,14 +113112,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113161,14 +113164,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113213,14 +113216,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113270,14 +113273,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113327,14 +113330,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113384,14 +113387,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113441,14 +113444,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113498,14 +113501,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113550,14 +113553,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113607,14 +113610,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113659,14 +113662,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113716,14 +113719,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113768,14 +113771,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113820,14 +113823,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113872,14 +113875,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113929,14 +113932,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -113986,14 +113989,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -114043,14 +114046,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -114100,14 +114103,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -114157,14 +114160,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -114214,14 +114217,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -114271,14 +114274,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -114323,14 +114326,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -114375,14 +114378,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -114427,14 +114430,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -120677,7 +120680,7 @@
                 "RowName": "Item_Water_Purifier_T2"
             },
             "Interactable": {
-                "RowName": "Deployable"
+                "RowName": "Water_Purifier_T3"
             },
             "Focusable": {
                 "RowName": "Focusable_1H"
@@ -121137,14 +121140,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -121189,14 +121192,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -121241,14 +121244,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -123780,14 +123783,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -123832,14 +123835,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -128297,6 +128300,256 @@
             "AdditionalStats": {
                 "(Value=\"CanHarvestSeeds_?\")": 1,
                 "(Value=\"BaseReapingSeedRewards_+%\")": 100
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_01",
+            "Meshable": {
+                "RowName": "Mesh_Meta_Sickle_Inaris_01"
+            },
+            "Itemable": {
+                "RowName": "Item_Meta_Sickle_Inaris_01"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Sickle"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Meta_Item_Inaris"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "ToolDamage": {
+                "RowName": "Meta_Sickle_Inaris_Skinning"
+            },
+            "Audio": {
+                "RowName": "Sickle"
+            },
+            "AdditionalStats": {
+                "(Value=\"BasePoisonDamage_+\")": 50,
+                "(Value=\"BaseAttacksCauseMiasma_%\")": 15,
+                "(Value=\"BasePlantThornsPerHarvestedResource_%\")": 100,
+                "(Value=\"BaseHarvestingRewards_+%\")": -25
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_02",
+            "Meshable": {
+                "RowName": "Mesh_Meta_Sickle_Inaris_02"
+            },
+            "Itemable": {
+                "RowName": "Item_Meta_Sickle_Inaris_02"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Sickle"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Meta_Item_Inaris"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "ToolDamage": {
+                "RowName": "Meta_Sickle_Elemental"
+            },
+            "Audio": {
+                "RowName": "Sickle"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseFireDamage_+\")": 50,
+                "(Value=\"BaseAttacksCauseBurn_%\")": 15,
+                "(Value=\"BaseHarvestCookChance_%\")": 25
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Tool.Sickle"
+                    },
+                    {
+                        "TagName": "Item.Meta"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_03",
+            "Meshable": {
+                "RowName": "Mesh_Meta_Sickle_Inaris_03"
+            },
+            "Itemable": {
+                "RowName": "Item_Meta_Sickle_Inaris_03"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Sickle"
+            },
+            "Usable": {
+                "RowName": "Repair"
+            },
+            "Durable": {
+                "RowName": "Meta_Item_Inaris"
+            },
+            "Decayable": {
+                "RowName": "Decay_MetaItem"
+            },
+            "ToolDamage": {
+                "RowName": "Meta_Sickle_Elemental"
+            },
+            "Audio": {
+                "RowName": "Sickle"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseFrostDamage_+\")": 50,
+                "(Value=\"BaseAttacksCauseFreeze_%\")": 15,
+                "(Value=\"BaseChilledAlterationChance_%\")": 30
             },
             "Manual_Tags": {
                 "GameplayTags": [
@@ -134369,14 +134622,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -134426,14 +134679,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -134483,14 +134736,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -134540,14 +134793,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -139710,14 +139963,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -139767,14 +140020,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -139824,14 +140077,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -139881,14 +140134,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -139938,14 +140191,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -139995,14 +140248,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -140052,14 +140305,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -140109,14 +140362,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -140166,14 +140419,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -140223,14 +140476,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -141836,14 +142089,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -141984,14 +142237,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -144847,14 +145100,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -144904,14 +145157,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -148202,14 +148455,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -150437,14 +150690,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -150569,14 +150822,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -151412,14 +151665,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -152709,14 +152962,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -153960,14 +154213,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -160240,14 +160493,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -162344,14 +162597,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -164258,14 +164511,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -165385,14 +165638,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -168171,14 +168424,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -168494,14 +168747,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -170625,14 +170878,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Uncommon"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -170682,14 +170935,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Rare"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -183528,14 +183781,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Vestige"
+                        "TagName": "Item.Vestige.Common"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -184053,70 +184306,51 @@
             }
         },
         {
-            "Name": "AnimalCarcass_Tame_Cat_B",
+            "Name": "Elephant_Tusk",
             "Meshable": {
-                "RowName": "Mesh_Carcass_Tame_Cat_B"
+                "RowName": "Mesh_Mammoth_Tusk"
             },
             "Itemable": {
-                "RowName": "Item_Carcass_Cat_A"
+                "RowName": "Item_Elephant_Tusk"
             },
             "Interactable": {
-                "RowName": "AnimalCorpse"
-            },
-            "Hitable": {
-                "RowName": "AnimalCarcass"
-            },
-            "Equippable": {
-                "RowName": "Equippable_Carcass_Small"
+                "RowName": "Item"
             },
             "Focusable": {
-                "RowName": "Focusable_Carcass_Hip"
+                "RowName": "Focusable_Backpack"
             },
             "Highlightable": {
                 "RowName": "Generic"
             },
-            "Actionable": {
-                "RowName": "Utilityslot_Drop"
-            },
-            "Durable": {
-                "RowName": "Carcass_Small"
-            },
             "Decayable": {
-                "RowName": "Decay_10_Minutes"
+                "RowName": "Decay_General"
             },
             "Audio": {
-                "RowName": "Carcass"
+                "RowName": "Default"
             },
-            "CraftingExperience": 400,
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Slot.SkinningBench"
+                        "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Harvest.Knife.T1"
+                        "TagName": "Item.Creature.Loot"
                     },
                     {
-                        "TagName": "Item.Utility.ShowBackpack"
-                    },
-                    {
-                        "TagName": "FieldGuide.BlackList"
+                        "TagName": "Item.Utility"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Slot.SkinningBench"
+                        "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Harvest.Knife.T1"
+                        "TagName": "Item.Creature.Loot"
                     },
                     {
-                        "TagName": "Item.Utility.ShowBackpack"
-                    },
-                    {
-                        "TagName": "FieldGuide.BlackList"
+                        "TagName": "Item.Utility"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -184128,126 +184362,10 @@
                         "TagName": "Traits.Interactable"
                     },
                     {
-                        "TagName": "Traits.Hitable"
-                    },
-                    {
-                        "TagName": "Traits.Equippable"
-                    },
-                    {
                         "TagName": "Traits.Highlightable"
-                    },
-                    {
-                        "TagName": "Traits.Actionable"
-                    },
-                    {
-                        "TagName": "Traits.Durable"
                     }
                 ],
                 "ParentTags": []
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Laika"
-                }
-            }
-        },
-        {
-            "Name": "AnimalCarcass_Tame_Cat_C",
-            "Meshable": {
-                "RowName": "Mesh_Carcass_Tame_Cat_C"
-            },
-            "Itemable": {
-                "RowName": "Item_Carcass_Cat_A"
-            },
-            "Interactable": {
-                "RowName": "AnimalCorpse"
-            },
-            "Hitable": {
-                "RowName": "AnimalCarcass"
-            },
-            "Equippable": {
-                "RowName": "Equippable_Carcass_Small"
-            },
-            "Focusable": {
-                "RowName": "Focusable_Carcass_Hip"
-            },
-            "Highlightable": {
-                "RowName": "Generic"
-            },
-            "Actionable": {
-                "RowName": "Utilityslot_Drop"
-            },
-            "Durable": {
-                "RowName": "Carcass_Small"
-            },
-            "Decayable": {
-                "RowName": "Decay_10_Minutes"
-            },
-            "Audio": {
-                "RowName": "Carcass"
-            },
-            "CraftingExperience": 400,
-            "Manual_Tags": {
-                "GameplayTags": [
-                    {
-                        "TagName": "Item.Slot.SkinningBench"
-                    },
-                    {
-                        "TagName": "Harvest.Knife.T1"
-                    },
-                    {
-                        "TagName": "Item.Utility.ShowBackpack"
-                    },
-                    {
-                        "TagName": "FieldGuide.BlackList"
-                    }
-                ]
-            },
-            "Generated_Tags": {
-                "GameplayTags": [
-                    {
-                        "TagName": "Item.Slot.SkinningBench"
-                    },
-                    {
-                        "TagName": "Harvest.Knife.T1"
-                    },
-                    {
-                        "TagName": "Item.Utility.ShowBackpack"
-                    },
-                    {
-                        "TagName": "FieldGuide.BlackList"
-                    },
-                    {
-                        "TagName": "Traits.Meshable"
-                    },
-                    {
-                        "TagName": "Traits.Itemable"
-                    },
-                    {
-                        "TagName": "Traits.Interactable"
-                    },
-                    {
-                        "TagName": "Traits.Hitable"
-                    },
-                    {
-                        "TagName": "Traits.Equippable"
-                    },
-                    {
-                        "TagName": "Traits.Highlightable"
-                    },
-                    {
-                        "TagName": "Traits.Actionable"
-                    },
-                    {
-                        "TagName": "Traits.Durable"
-                    }
-                ],
-                "ParentTags": []
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Laika"
-                }
             }
         }
     ]
