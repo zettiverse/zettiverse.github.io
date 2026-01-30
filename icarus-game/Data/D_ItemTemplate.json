@@ -12816,6 +12816,24 @@
             }
         },
         {
+            "Name": "Meta_Sickle_Inaris_01",
+            "ItemStaticData": {
+                "RowName": "Meta_Sickle_Inaris_01"
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_02",
+            "ItemStaticData": {
+                "RowName": "Meta_Sickle_Inaris_02"
+            }
+        },
+        {
+            "Name": "Meta_Sickle_Inaris_03",
+            "ItemStaticData": {
+                "RowName": "Meta_Sickle_Inaris_03"
+            }
+        },
+        {
             "Name": "Mission_AudioLog_Prometheus_3",
             "ItemStaticData": {
                 "RowName": "Mission_AudioLog_Prometheus_3"
@@ -19422,6 +19440,12 @@
             "Name": "Spider_Silk",
             "ItemStaticData": {
                 "RowName": "Spider_Silk"
+            }
+        },
+        {
+            "Name": "Elephant_Tusk",
+            "ItemStaticData": {
+                "RowName": "Elephant_Tusk"
             }
         }
     ]

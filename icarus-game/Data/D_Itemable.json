@@ -5401,10 +5401,18 @@
         },
         {
             "Name": "Item_Advanced_Kitchen_Sink",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Kitchen_Sink-DisplayName\", \"Plumbed Sink\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Kitchen_Sink-DisplayName\", \"Marble Plumbed Sink\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Advanced_Kitchen_Sink.T_ITEM_Advanced_Kitchen_Sink",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Kitchen_Sink-Description\", \"Fully plumbed basin and running water, a luxury of sorts.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Kitchen_Sink-FlavorText\", \"Just like home.\")",
+            "Weight": 20000
+        },
+        {
+            "Name": "Item_Kitchen_Sink",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Kitchen_Sink-DisplayName\", \"Plumbed Sink\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Kitchen_Sink.T_ITEM_Kitchen_Sink",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Kitchen_Sink-Description\", \"Fully plumbed basin and running water, a luxury of sorts.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Kitchen_Sink-FlavorText\", \"Just like home.\")",
             "Weight": 20000
         },
         {
@@ -14069,7 +14077,7 @@
         {
             "Name": "Item_Ren",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Ren-DisplayName\", \"Ren\")",
-            "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_RenCurrency.Icon_RenCurrency",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Voxels/T_Item_Ren.T_Item_Ren",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Ren-Description\", \"The main currency used by the UDA. Prospectors take on contracts to Earn this so they can purchase and upgrade gear. Use an Orbital Exchange Interface to send to orbit.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Ren-FlavorText\", \"The global currency of Earth.\")",
             "Weight": 10,
@@ -15227,25 +15235,25 @@
         },
         {
             "Name": "Item_Meta_Sickle_Inaris_01",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-DisplayName\", \"Inaris Dark Sickle\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-DisplayName\", \"Inaris \\'Thorn\\' Sickle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/T_ITEM_Meta_Sickle_Inaris_01.T_ITEM_Meta_Sickle_Inaris_01",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-Description\", \"A sickle designed to give you an edge at hunting in the dark.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-Description\", \"A sickle infused with distilled miasmic coating to provide bonuses when harvesting.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-FlavorText\", \"Another tool for your arsenal.\")",
             "Weight": 1000
         },
         {
             "Name": "Item_Meta_Sickle_Inaris_02",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-DisplayName\", \"Inaris Sharp Sickle\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-DisplayName\", \"Inaris \\'Scorch\\' Sickle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/T_ITEM_Meta_Sickle_Inaris_02.T_ITEM_Meta_Sickle_Inaris_02",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-Description\", \"A sickle that doubles as a knife.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-Description\", \"A sickle which emits heats thanks to its obsidian core.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-FlavorText\", \"Another tool for your arsenal.\")",
             "Weight": 1000
         },
         {
             "Name": "Item_Meta_Sickle_Inaris_03",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-DisplayName\", \"Inaris Light Sickle\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-DisplayName\", \"Inaris \\'Icy\\' Sickle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/T_ITEM_Meta_Sickle_Inaris_03.T_ITEM_Meta_Sickle_Inaris_03",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-Description\", \"A sickle that has been designed with foraging by hand in mind.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-Description\", \"A sickle that is kept frosty due to the research into super cooled ice.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-FlavorText\", \"Another tool for your arsenal.\")",
             "Weight": 1000
         },
@@ -15916,6 +15924,7 @@
         {
             "Name": "Item_Advanced_Exotic_Delivery_Interface",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Exotic_Delivery_Interface-DisplayName\", \"Advanced Orbital Exchange Interface\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Advanced_Exotic_Delivery_Interface.T_ITEM_Advanced_Exotic_Delivery_Interface",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Exotic_Delivery_Interface-Description\", \"An Orbital Exchange that is able to direct the exchange pods to an exact location.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Advanced_Exotic_Delivery_Interface-FlavorText\", \"Progress\")",
             "Weight": 25000
@@ -23746,9 +23755,10 @@
         },
         {
             "Name": "Item_AntiRadiation_Transfusion",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Transfusion-DisplayName\", \"Rad-Ex Transfusion\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Transfusion-DisplayName\", \"Anti-Radiation Transfusion\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_AntiRadiation_Transfusion.T_ITEM_AntiRadiation_Transfusion",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Transfusion-Description\", \"Slowly Cleans Irradiated Blood and Stimulates The Repair of Cells.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Transfusion-FlavorText\", \"Survive the Fallout\")",
             "FieldGuideKeywords": [
                 "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Transfusion-FieldGuideKeywords-0\", \"radex\")",
                 "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Transfusion-FieldGuideKeywords-1\", \"radiation\")"
@@ -23758,9 +23768,10 @@
         },
         {
             "Name": "Item_AntiRadiation_Injection",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Injection-DisplayName\", \"Rad-Ex Injection\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Injection-DisplayName\", \"Anti-Radiation Injection\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_AntiRadiation_Injection.T_ITEM_AntiRadiation_Injection",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Injection-Description\", \"Instantly removes a large amount of Radiation Exposure.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Injection-FlavorText\", \"Survive the Fallout\")",
             "FieldGuideKeywords": [
                 "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Injection-FieldGuideKeywords-0\", \"radex\")",
                 "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Injection-FieldGuideKeywords-1\", \"radiation\")"
@@ -25372,10 +25383,10 @@
         },
         {
             "Name": "Item_AntiRadiation_Tonic",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Tonic-DisplayName\", \"Rad-Ex Tonic\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Tonic-DisplayName\", \"Anti-Radiation Tonic\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_AntiRadiationTonic.T_ITEM_AntiRadiationTonic",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Tonic-Description\", \"Providing a decent amount of health recovery.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Tonic-FlavorText\", \"Slowly Cleans Irradiated Blood and Stimulates The Repair of Cells.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Tonic-Description\", \"Slowly Cleans Irradiated Blood and Stimulates The Repair of Cells\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Tonic-FlavorText\", \"Survive the Fallout\")",
             "FieldGuideKeywords": [
                 "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Tonic-FieldGuideKeywords-0\", \"radex\")",
                 "NSLOCTEXT(\"D_Itemable\", \"Item_AntiRadiation_Tonic-FieldGuideKeywords-1\", \"radiation\")"
@@ -26050,7 +26061,7 @@
         },
         {
             "Name": "Item_Homestead_Lantern",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Lantern-DisplayName\", \"Homestead Lantern\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Lantern-DisplayName\", \"Homestead Rustic Lamp\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Lantern.T_ITEM_Homestead_Lantern",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Lantern-Description\", \"A delightfully rustic piece of decor, perfect for your cozy homestead.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Lantern-FlavorText\", \"Home Sweet Home\")",
@@ -26362,7 +26373,7 @@
         {
             "Name": "Item_Workshop_Rooster",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Rooster-DisplayName\", \"Cryogenically Frozen Rooster\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Rooster_Head.T_ITEM_Rooster_Head",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Rooster.T_ITEM_Workshop_Rooster",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Rooster-Description\", \"A Rooster preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Rooster-FlavorText\", \"Bok bok\")",
             "Weight": 1000
@@ -26370,9 +26381,16 @@
         {
             "Name": "Item_Workshop_Bull",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Bull-DisplayName\", \"Cryogenically Frozen Bull\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Bull_Head.T_ITEM_Bull_Head",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Bull.T_ITEM_Workshop_Bull",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Bull-Description\", \"A Bull preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Bull-FlavorText\", \"Bok bok\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Bull-FlavorText\", \"Moo\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Workshop_Ram",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Ram-DisplayName\", \"Cryogenically Frozen Ram\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Ram.T_ITEM_Workshop_Ram",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Ram-Description\", \"A Ram preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
             "Weight": 1000
         },
         {
@@ -26419,6 +26437,106 @@
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Banana_Tart-FlavorText\", \"Almost makes you forget where you are - almost.\")",
             "Weight": 150,
             "MaxStack": 10
+        },
+        {
+            "Name": "Item_Banana_Toast",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Banana_Toast-DisplayName\", \"Banana Toast\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Banana_Toast.T_ITEM_Banana_Toast",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Banana_Toast-Description\", \"Some diced up banana placed gently on some lightly toasted bread.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Banana_Toast-FlavorText\", \"Delicious \")",
+            "Weight": 200,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_Elephant_Tusk",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Elephant_Tusk-DisplayName\", \"Elephant Tusk\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/ITEM_Elephant_Tusk.ITEM_Elephant_Tusk",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Elephant_Tusk-Description\", \"While not the biggest tusk one could find on Icarus, it\\'s still a valuable source of bone.\")",
+            "Weight": 7500
+        },
+        {
+            "Name": "Item_Workshop_Dog_C2",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_C2-DisplayName\", \"Cryogenically Frozen French Bulldog\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Dog_C2.T_ITEM_Workshop_Dog_C2",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_C2-Description\", \"A Dog preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_C2-FlavorText\", \"Woof\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Workshop_Dog_E",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_E-DisplayName\", \"Cryogenically Frozen Border Collie\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Dog_E.T_ITEM_Workshop_Dog_E",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_E-Description\", \"A Dog preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_E-FlavorText\", \"Woof\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Workshop_Cat_B",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Cat_B-DisplayName\", \"Cryogenically Frozen Himalayan Seal Point Cat\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Cat_B.T_ITEM_Workshop_Cat_B",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Cat_B-Description\", \"A Cat preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Cat_B-FlavorText\", \"Meow\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Workshop_Cat_C",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Cat_C-DisplayName\", \"Cryogenically Frozen Tortoise Shell Ragdoll Cat\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Cat_C.T_ITEM_Workshop_Cat_C",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Cat_C-Description\", \"A Cat preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Cat_C-FlavorText\", \"Meow\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Sandwyrm_Egg",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Egg-DisplayName\", \"Sandworm Egg\")",
+            "Weight": 1000,
+            "MaxStack": 25
+        },
+        {
+            "Name": "Item_Sandwyrm_Lantern",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lantern-DisplayName\", \"Sandwyrm Lantern\")",
+            "Weight": 250
+        },
+        {
+            "Name": "Item_Sandwyrm_Backpack",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Backpack-DisplayName\", \"Sandwyrm Backpack\")",
+            "Weight": 250
+        },
+        {
+            "Name": "Item_Sandwyrm_Lure",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lure-DisplayName\", \"Sandwyrm Lure\")",
+            "Weight": 250
+        },
+        {
+            "Name": "Item_Sandwyrm_Target",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Target-DisplayName\", \"Sandwyrm Target\")",
+            "Weight": 250
+        },
+        {
+            "Name": "Item_Sandwyrm_Throne",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Throne-DisplayName\", \"Sandwrym Throne\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_Sandwyrm_Chair",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Chair-DisplayName\", \"Sandwyrm Chair\")",
+            "FlavorText": "INVTEXT(\".\")",
+            "Weight": 500
+        },
+        {
+            "Name": "Item_Oil_Can",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Oil_Can-DisplayName\", \"Oil Can\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Oil_Can.T_ITEM_Oil_Can",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Oil_Can-Description\", \"Canister for refined oil storage.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Oil_Can-FlavorText\", \"Lighteright alternative at the cost of resource amount.\")",
+            "Weight": 3000
+        },
+        {
+            "Name": "Item_Eden_NPC_Hunter",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-DisplayName\", \"Predator Control Specialist Liardet\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-Description\", \"UDA assigned Specialist who deals in all manner of Creatures within the area. \")",
+            "Weight": 20000
         }
     ]
 }

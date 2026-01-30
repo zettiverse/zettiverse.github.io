@@ -3420,6 +3420,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -3479,6 +3483,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -3752,6 +3760,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -3808,6 +3820,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -3920,6 +3936,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -3970,6 +3990,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -4050,6 +4074,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -4115,6 +4143,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -4172,6 +4204,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -4238,6 +4274,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -4302,6 +4342,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -5495,6 +5539,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -6095,6 +6143,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -6582,6 +6634,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -6641,6 +6697,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -6806,6 +6866,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -6872,6 +6936,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -7052,6 +7120,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -7108,6 +7180,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -7175,6 +7251,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -7881,6 +7961,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -8116,6 +8200,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -8169,6 +8257,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -8831,6 +8923,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -8935,6 +9031,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -8976,6 +9076,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -9175,6 +9279,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -10246,6 +10354,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -10296,6 +10408,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -10345,6 +10461,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -10398,6 +10518,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -10460,6 +10584,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -10521,6 +10649,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -10574,6 +10706,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -10643,6 +10779,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -10709,6 +10849,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -10765,6 +10909,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -10814,6 +10962,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -10865,6 +11017,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -10914,6 +11070,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -11073,6 +11233,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -11140,6 +11304,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -11336,6 +11504,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -12025,6 +12197,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -12078,6 +12254,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -12116,6 +12296,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -12324,6 +12508,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -12373,6 +12561,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -12806,6 +12998,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -13147,6 +13343,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -13212,6 +13412,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -13272,6 +13476,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -13446,6 +13654,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -13491,6 +13703,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -13709,6 +13925,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -13898,6 +14118,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -14194,6 +14418,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -14251,6 +14479,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -14310,6 +14542,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -14367,6 +14603,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -14426,6 +14666,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -14483,6 +14727,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -14542,6 +14790,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -14599,6 +14851,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -14658,6 +14914,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -14710,6 +14970,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -14764,6 +15028,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -14817,6 +15085,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -14865,6 +15137,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -14999,6 +15275,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -15709,6 +15989,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -15840,6 +16124,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -16717,6 +17005,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -16859,6 +17151,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -16925,6 +17221,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -17112,6 +17412,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -17180,6 +17484,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -17240,6 +17548,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -17308,6 +17620,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -18292,6 +18608,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -18453,6 +18773,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -18505,6 +18829,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -18552,6 +18880,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -19921,6 +20253,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -20217,6 +20553,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -20289,6 +20629,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -20357,6 +20701,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -20409,6 +20757,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -20460,6 +20812,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -20565,6 +20921,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -21031,6 +21391,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -21078,6 +21442,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -21134,6 +21502,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -21188,6 +21560,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -22563,6 +22939,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -22626,6 +23006,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -22681,6 +23065,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -22738,6 +23126,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -22794,6 +23186,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -22858,6 +23254,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -22911,6 +23311,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -22960,6 +23364,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -23025,6 +23433,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -23088,6 +23500,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -23153,6 +23569,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -23216,6 +23636,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -23748,6 +24172,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -23802,6 +24230,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -24131,6 +24563,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -24193,6 +24629,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -24478,6 +24918,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -24543,6 +24987,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -24602,6 +25050,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -24666,6 +25118,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -24738,6 +25194,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -24798,6 +25258,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -25832,6 +26296,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -25885,6 +26353,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -25985,6 +26457,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -26045,6 +26521,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -26111,6 +26591,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -26167,6 +26651,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -27117,6 +27605,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -27169,6 +27661,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -27241,6 +27737,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -27828,6 +28328,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -28103,6 +28607,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -28156,6 +28664,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -28574,6 +29086,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -28637,6 +29153,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -32821,6 +33341,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -32884,6 +33408,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -33482,6 +34010,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -33534,6 +34066,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -34452,6 +34988,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -34505,6 +35045,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -34567,6 +35111,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -34798,6 +35346,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -36161,6 +36713,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -36218,6 +36774,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -36267,6 +36827,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -36324,6 +36888,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -36858,6 +37426,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -36929,6 +37501,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -36993,6 +37569,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -37056,6 +37636,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -37388,6 +37972,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -37459,6 +38047,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -37522,6 +38114,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -37668,6 +38264,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -37736,6 +38336,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -37864,6 +38468,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -38214,6 +38822,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -38274,6 +38886,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -38344,6 +38960,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -38411,6 +39031,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -38491,6 +39115,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -38547,6 +39175,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -38612,6 +39244,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -39868,6 +40504,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -39906,6 +40546,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -43820,6 +44464,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -44392,6 +45040,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -44456,6 +45108,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -44512,6 +45168,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -45551,6 +46211,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -45603,6 +46267,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -45654,6 +46322,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -45710,6 +46382,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -45749,6 +46425,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -46331,6 +47011,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -46387,6 +47071,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -47281,6 +47969,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -47337,6 +48029,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -48126,6 +48822,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -48182,6 +48882,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -52674,6 +53378,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -52730,6 +53438,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -52798,6 +53510,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -53795,6 +54511,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -54913,6 +55633,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -54981,6 +55705,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -55038,6 +55766,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -55094,6 +55826,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -56584,6 +57320,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -56639,6 +57379,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -57477,6 +58221,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -60174,6 +60922,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -60237,6 +60989,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -61351,6 +62107,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -61404,6 +62164,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -61462,6 +62226,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -61516,6 +62284,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -61565,6 +62337,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -61622,6 +62398,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -64510,6 +65290,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -64572,6 +65356,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -65438,6 +66226,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -65505,6 +66297,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -65574,6 +66370,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -65623,6 +66423,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -65691,6 +66495,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -68410,7 +69218,7 @@
                         "RowName": "Wool",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 30
+                    "Count": 2
                 },
                 {
                     "Element": {
@@ -68454,6 +69262,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -68507,6 +69319,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -68562,7 +69378,7 @@
                         "RowName": "Wool",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20
+                    "Count": 6
                 },
                 {
                     "Element": {
@@ -68615,7 +69431,7 @@
                         "RowName": "Wool",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 5
+                    "Count": 3
                 }
             ],
             "Outputs": [
@@ -68655,7 +69471,7 @@
                         "RowName": "Wool",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 40
+                    "Count": 6
                 }
             ],
             "Outputs": [
@@ -68695,7 +69511,7 @@
                         "RowName": "Wool",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 40
+                    "Count": 6
                 },
                 {
                     "Element": {
@@ -68749,7 +69565,7 @@
                         "RowName": "Wool",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 40
+                    "Count": 6
                 },
                 {
                     "Element": {
@@ -68804,7 +69620,7 @@
                         "RowName": "Wool",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 10
+                    "Count": 2
                 },
                 {
                     "Element": {
@@ -68851,6 +69667,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -69081,6 +69901,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -69362,6 +70186,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -69418,6 +70246,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -69487,6 +70319,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -69551,6 +70387,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -69601,6 +70441,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -69650,6 +70494,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -69708,6 +70556,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -69919,6 +70771,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -69979,6 +70835,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -70036,6 +70896,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -70095,6 +70959,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -70152,6 +71020,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -70211,6 +71083,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -70269,6 +71145,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -70321,6 +71201,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -70375,6 +71259,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -70427,6 +71315,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -70481,6 +71373,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -70533,6 +71429,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -70592,6 +71492,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -70649,6 +71553,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -70740,6 +71648,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -71031,6 +71943,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -71085,6 +72001,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -71161,6 +72081,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -71217,6 +72141,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -71667,6 +72595,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -72755,6 +73687,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -72903,6 +73839,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -73391,6 +74331,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -73997,6 +74941,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -74388,6 +75336,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -74516,6 +75468,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -74895,6 +75851,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -75026,6 +75986,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -75097,6 +76061,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -75886,6 +76854,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -76320,6 +77292,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -77032,6 +78008,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -77284,6 +78264,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -77356,6 +78340,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -77412,6 +78400,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -77480,6 +78472,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -77546,6 +78542,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -77686,6 +78686,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -77742,6 +78746,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -77806,6 +78814,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -77920,6 +78932,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -77982,6 +78998,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -78548,6 +79568,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -78583,6 +79607,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -78629,6 +79657,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -78793,6 +79825,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -78850,6 +79886,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -78909,6 +79949,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -78959,6 +80003,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -79004,6 +80052,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -79958,6 +81010,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -80014,6 +81070,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -80275,6 +81335,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -80803,6 +81867,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -81461,6 +82529,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -81525,6 +82597,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -81592,6 +82668,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -81648,6 +82728,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -82016,6 +83100,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -82084,6 +83172,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -82148,6 +83240,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -82802,6 +83898,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -83258,6 +84358,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -83326,6 +84430,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -83378,6 +84486,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -83429,6 +84541,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -83485,6 +84601,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -83536,6 +84656,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -83589,6 +84713,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -83641,6 +84769,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -83692,6 +84824,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -85182,6 +86318,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -85529,6 +86669,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -85581,6 +86725,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -85721,6 +86869,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -85844,6 +86996,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -85963,6 +87119,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86031,6 +87191,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86077,6 +87241,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -86127,6 +87295,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -86185,6 +87357,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86234,6 +87410,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -86328,6 +87508,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86392,6 +87576,10 @@
                 },
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -86531,6 +87719,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86578,6 +87770,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -86635,6 +87831,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86691,6 +87891,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86745,6 +87949,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -86809,6 +88017,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86871,6 +88083,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86926,6 +88142,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -86980,6 +88200,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -87289,6 +88513,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -87391,10 +88619,17 @@
                 },
                 {
                     "Element": {
-                        "RowName": "Organic_Resin",
+                        "RowName": "Electronics",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 20
+                    "Count": 1
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15
                 }
             ],
             "Outputs": [
@@ -87446,10 +88681,17 @@
                 },
                 {
                     "Element": {
-                        "RowName": "Organic_Resin",
+                        "RowName": "Electronics",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 40
+                    "Count": 2
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20
                 }
             ],
             "Outputs": [
@@ -87501,10 +88743,17 @@
                 },
                 {
                     "Element": {
-                        "RowName": "Organic_Resin",
+                        "RowName": "Electronics",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 30
+                    "Count": 1
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10
                 }
             ],
             "Outputs": [
@@ -87556,10 +88805,17 @@
                 },
                 {
                     "Element": {
-                        "RowName": "Organic_Resin",
+                        "RowName": "Electronics",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 40
+                    "Count": 2
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15
                 }
             ],
             "Outputs": [
@@ -87611,10 +88867,17 @@
                 },
                 {
                     "Element": {
-                        "RowName": "Organic_Resin",
+                        "RowName": "Electronics",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 25
+                    "Count": 1
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
                 }
             ],
             "Outputs": [
@@ -87666,10 +88929,17 @@
                 },
                 {
                     "Element": {
-                        "RowName": "Organic_Resin",
+                        "RowName": "Electronics",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 25
+                    "Count": 4
+                },
+                {
+                    "Element": {
+                        "RowName": "Gold_Wire",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 35
                 }
             ],
             "Outputs": [
@@ -87975,6 +89245,10 @@
             "RecipeSets": [
                 {
                     "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -88757,7 +90031,7 @@
                         "RowName": "Wool",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 25
+                    "Count": 12
                 },
                 {
                     "Element": {
@@ -90039,6 +91313,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "Inputs": [
@@ -90527,7 +91805,7 @@
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Fatty_TBone",
+                        "RowName": "Fatty_Tbone",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -91071,6 +92349,10 @@
                 {
                     "RowName": "Fabricator",
                     "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
                 }
             ],
             "ResourceCostMultipliers": [
@@ -91114,6 +92396,43 @@
             ],
             "Audio": {
                 "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Bone_ElephantTusks",
+            "RequiredMillijoules": 7500,
+            "RecipeSets": [
+                {
+                    "RowName": "Mortar_And_Pestle",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Material_Processor",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Elephant_Tusk",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Crushed_Bone",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 200,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MortarPestle"
             }
         }
     ]
