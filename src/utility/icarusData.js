@@ -327,6 +327,15 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
             recipeData[id].label = id.replaceAll('_', ' ');
             recipeData[id].iconPath = 'Resources/T_ITEM_CreatureBait_' + id.split('_')[2];
         }
+        
+        if (id == 'Arctic_Pelt_Wool') {
+            recipeData['Polarbear_Pelt'] = recipeData[id];
+        }
+        
+        if (id == 'Cured_Leather') {
+            recipeData['Advanced_Leather'] = recipeData[id];
+        }        
+        
         // build list of input item objects
         (recipe.Inputs || []).forEach((input) => {
             recipeData[id].inputs.push({
