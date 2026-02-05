@@ -17201,6 +17201,18 @@
             }
         },
         {
+            "Name": "Chick_Head",
+            "ItemStaticData": {
+                "RowName": "Chick_Head"
+            }
+        },
+        {
+            "Name": "Chick_Trophy",
+            "ItemStaticData": {
+                "RowName": "Chick_Trophy"
+            }
+        },
+        {
             "Name": "ResearchEquipment_Centrifuge",
             "ItemStaticData": {
                 "RowName": "ResearchEquipment_Centrifuge"
@@ -17822,6 +17834,16 @@
             "ItemStaticData": {
                 "RowName": "SandArmor_Backpack"
             },
+            "ItemDynamicData": [
+                {
+                    "PropertyType": "Fillable_StoredUnits",
+                    "Value": 10800
+                },
+                {
+                    "PropertyType": "Fillable_Type",
+                    "Value": 1
+                }
+            ],
             "Metadata": {
                 "RequiredFeatureLevel": {
                     "RowName": "GreatHunts"
@@ -19446,6 +19468,46 @@
             "Name": "Elephant_Tusk",
             "ItemStaticData": {
                 "RowName": "Elephant_Tusk"
+            }
+        },
+        {
+            "Name": "Workshop_Chick_Female",
+            "ItemStaticData": {
+                "RowName": "Workshop_Chick_Female"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Lamb_Female",
+            "ItemStaticData": {
+                "RowName": "Workshop_Lamb_Female"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Lamb_Head",
+            "ItemStaticData": {
+                "RowName": "Lamb_Head"
+            }
+        },
+        {
+            "Name": "Lamb_Trophy",
+            "ItemStaticData": {
+                "RowName": "Lamb_Trophy"
+            }
+        },
+        {
+            "Name": "Prebuilt_Spawn_Location",
+            "ItemStaticData": {
+                "RowName": "Prebuilt_Spawn_Location"
             }
         }
     ]

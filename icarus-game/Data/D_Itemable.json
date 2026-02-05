@@ -19680,7 +19680,7 @@
         },
         {
             "Name": "Item_Metal_Grate_Building",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Building-DisplayName\", \"Metal Grate Building Kit\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Building-DisplayName\", \"Steel Building Kit\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Iron_Floor_0.ITEM_Iron_Floor_0",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Building-Description\", \"Grating with an industrial feel. \")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Building-FlavorText\", \"Perfect for building walkways.\")",
@@ -19982,8 +19982,8 @@
         },
         {
             "Name": "Item_Workshop_Calf",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Calf-DisplayName\", \"Cryogenically Frozen Calf\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Calf.T_ITEM_Workshop_Calf",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Calf-DisplayName\", \"Cryogenically Frozen Calf (Female)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Calf_Female.T_ITEM_Calf_Female",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Calf-Description\", \"A Calf preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Calf-FlavorText\", \"Preserved for revival - not eating.\")",
             "Weight": 10000
@@ -20748,7 +20748,7 @@
         },
         {
             "Name": "Item_Homestead_Farm_Railing_Gate",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Farm_Railing_Gate-DisplayName\", \"Homestead Railing Gate\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Farm_Railing_Gate-DisplayName\", \"Farm Fence Gate\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Farm_Railing_Gate.T_ITEM_Farm_Railing_Gate",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Farm_Railing_Gate-Description\", \"A rustic gate perfect for your farm.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Farm_Railing_Gate-FlavorText\", \"Home Sweet Home\")",
@@ -20757,7 +20757,7 @@
         },
         {
             "Name": "Item_Homestead_Farm_Railing",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Farm_Railing-DisplayName\", \"Homestead Railing\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Farm_Railing-DisplayName\", \"Farm Fence\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Farm_Railing.T_ITEM_Farm_Railing",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Farm_Railing-Description\", \"A rustic railing perfect for your farm.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Farm_Railing-FlavorText\", \"Home Sweet Home\")",
@@ -20766,9 +20766,9 @@
         },
         {
             "Name": "Item_Homestead_BarnDoor",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_BarnDoor-DisplayName\", \"Homestead Barn Door\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_BarnDoor-DisplayName\", \"Barn Door\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_BarnDoor_0.T_ITEM_Homestead_BarnDoor_0",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_BarnDoor-Description\", \"A rustic barn door for your homestead.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_BarnDoor-Description\", \"A countryside-inspired decor feature that brings character to your home.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_BarnDoor-FlavorText\", \"Home Sweet Home\")",
             "Weight": 1000,
             "MaxStack": 20
@@ -21099,17 +21099,17 @@
         },
         {
             "Name": "Item_Homestead_Ranch_Sign",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Sign-DisplayName\", \"Homestead Ranch Sign\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Sign-DisplayName\", \"Ranch Sign\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Ranch_Sign.T_ITEM_Homestead_Ranch_Sign",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Sign-Description\", \"A delightfully rustic piece of decor, perfect for your cozy homestead.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Sign-Description\", \"A countryside-inspired decor feature that brings character to your home.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Sign-FlavorText\", \"Home Sweet Home\")",
             "Weight": 20000
         },
         {
             "Name": "Item_Homestead_Ranch_Gate_Sign",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Gate_Sign-DisplayName\", \"Homestead Ranch Gate Sign\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Gate_Sign-DisplayName\", \"Ranch Gate Sign\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Ranch_Gate_Sign.T_ITEM_Homestead_Ranch_Gate_Sign",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Gate_Sign-Description\", \"A delightfully rustic piece of decor, perfect for your cozy homestead.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Gate_Sign-Description\", \"A countryside-inspired decor feature that brings character to your home.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Ranch_Gate_Sign-FlavorText\", \"Home Sweet Home\")",
             "Weight": 20000
         },
@@ -21259,9 +21259,9 @@
         },
         {
             "Name": "Item_Homestead_Barbed_Wire_Fence",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Barbed_Wire_Fence-DisplayName\", \"Homestead Barbed Wire Fence\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Barbed_Wire_Fence-DisplayName\", \"Barbed Wire Fence\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Barbed_Wire_Fence.T_ITEM_Homestead_Barbed_Wire_Fence",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Barbed_Wire_Fence-Description\", \"A delightfully rustic piece of decor, perfect for your cozy homestead.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Barbed_Wire_Fence-Description\", \"A countryside-inspired decor feature that brings character to your home.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Barbed_Wire_Fence-FlavorText\", \"Home Sweet Home\")",
             "Weight": 1000,
             "MaxStack": 20
@@ -21336,18 +21336,18 @@
         },
         {
             "Name": "Item_Homestead_Weapon_Rack",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack-DisplayName\", \"Homestead Weapon Rack (Double)\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack-DisplayName\", \"Wooden Weapon Rack (Double)\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Weapon_Rack_0.T_ITEM_Homestead_Weapon_Rack_0",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack-Description\", \"A delightfully rustic piece of decor, perfect for your cozy homestead.Can hold up to two weapons.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack-Description\", \"A countryside-inspired decor feature that brings character to your home. Can hold up to two weapons.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack-FlavorText\", \"Home Sweet Home\")",
             "Weight": 2000,
             "MaxStack": 5
         },
         {
             "Name": "Item_Homestead_Weapon_Rack_Single",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack_Single-DisplayName\", \"Homestead Weapon Rack (Single)\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack_Single-DisplayName\", \"Wooden Weapon Rack (Single)\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Weapon_Rack_2.T_ITEM_Homestead_Weapon_Rack_2",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack_Single-Description\", \"A delightfully rustic piece of decor, perfect for your cozy homestead.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack_Single-Description\", \"A countryside-inspired decor feature that brings character to your home.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Weapon_Rack_Single-FlavorText\", \"Home Sweet Home\")",
             "Weight": 2000,
             "MaxStack": 5
@@ -21726,7 +21726,7 @@
             "Name": "Item_SandArmor_Backpack",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_SandArmor_Backpack-DisplayName\", \"Carbonweave Backpack\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_SandArmor_Backpack.T_ITEM_SandArmor_Backpack",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_SandArmor_Backpack-Description\", \"Resilient Armor Designed Withstand the Extremely Hot Temperatures and Focus on Survival.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_SandArmor_Backpack-Description\", \"A powered backpack that emits an aura of fall damage reduction and is made to help protect againat exposure. Can be recharged at the Charging Station.\")",
             "Weight": 1000
         },
         {
@@ -23096,7 +23096,7 @@
             "Name": "Item_Exotic_Uranium_Collector",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Exotic_Uranium_Collector-DisplayName\", \"Uranium Extraction Unit\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Exotic_Uranium_Collector.T_ITEM_Exotic_Uranium_Collector",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Exotic_Uranium_Collector-Description\", \"A portable mining unit powered by electricity, used to extract resources from Uranium deposits.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Exotic_Uranium_Collector-Description\", \"A portable mining unit powered by electricity, used to extract resources from Uranium deposits. Creatures will attack this device when active.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Exotic_Uranium_Collector-FlavorText\", \"Warning: Uranium extraction is known to aggravate nearby wildlife\")",
             "Weight": 8000
         },
@@ -23867,7 +23867,7 @@
         {
             "Name": "Item_Carcass_Rabbit_Variant_Snow",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Rabbit_Variant_Snow-DisplayName\", \"Snow Pygmy Lop Carcass\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Rabbit_Variant_Snow.T_ITEM_AnimalCarcass_Rabbit_Variant_Snow",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_PygmyLop.T_ITEM_AnimalCarcass_PygmyLop",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Rabbit_Variant_Snow-Description\", \"As on Earth, a survivor, but not today.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Rabbit_Variant_Snow-FlavorText\", \"The rabbit variant has found a new niche on this malformed environment.\")",
             "Weight": 1000
@@ -24796,6 +24796,7 @@
         {
             "Name": "Item_Synthetic_Armor_Head",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Head-DisplayName\", \"Resurgent Head Armor \")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/T_ITEM_Synthetic_Armor_Head_.T_ITEM_Synthetic_Armor_Head_",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Head-Description\", \"A synthetic bio-loop system tuned for regenerative performance in hostile environments.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Head-FlavorText\", \"Your second skin - smarter than the first.\")",
             "Weight": 2000
@@ -24803,6 +24804,7 @@
         {
             "Name": "Item_Synthetic_Armor_Chest",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Chest-DisplayName\", \"Resurgent Chest Armor \")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/T_ITEM_Synthetic_Armor_Chest_.T_ITEM_Synthetic_Armor_Chest_",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Chest-Description\", \"A synthetic bio-loop system tuned for regenerative performance in hostile environments.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Chest-FlavorText\", \"Your second skin - smarter than the first.\")",
             "Weight": 2000
@@ -24810,6 +24812,7 @@
         {
             "Name": "Item_Synthetic_Armor_Arms",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Arms-DisplayName\", \"Resurgent Arm Armor \")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/T_ITEM_Synthetic_Armor_Arms_.T_ITEM_Synthetic_Armor_Arms_",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Arms-Description\", \"A synthetic bio-loop system tuned for regenerative performance in hostile environments.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Arms-FlavorText\", \"Your second skin - smarter than the first.\")",
             "Weight": 2000
@@ -24817,6 +24820,7 @@
         {
             "Name": "Item_Synthetic_Armor_Legs",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Legs-DisplayName\", \"Resurgent Leg Armor\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/T_ITEM_Synthetic_Armor_Legs_.T_ITEM_Synthetic_Armor_Legs_",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Legs-Description\", \"A synthetic bio-loop system tuned for regenerative performance in hostile environments.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Legs-FlavorText\", \"Your second skin - smarter than the first.\")",
             "Weight": 2000
@@ -24824,6 +24828,7 @@
         {
             "Name": "Item_Synthetic_Armor_Feet",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Feet-DisplayName\", \"Resurgent Feet Armor\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Armour/T_ITEM_Synthetic_Armor_Feet_.T_ITEM_Synthetic_Armor_Feet_",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Feet-Description\", \"A synthetic bio-loop system tuned for regenerative performance in hostile environments.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Synthetic_Armor_Feet-FlavorText\", \"Your second skin - smarter than the first.\")",
             "Weight": 2000
@@ -25027,7 +25032,7 @@
         {
             "Name": "Item_Carcass_Mount_Slinker",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Mount_Slinker-DisplayName\", \"Slinker Carcass\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Slinker_Mount.T_ITEM_AnimalCarcass_Slinker_Mount",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Slinker.T_ITEM_AnimalCarcass_Slinker",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Mount_Slinker-Description\", \"A tamed fierce creature now lies dead.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Mount_Slinker-FlavorText\", \"Another reminder that nothing survives Icarus forever.\")",
             "Weight": 5000
@@ -25087,7 +25092,7 @@
         {
             "Name": "Item_Slinker_Head",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Slinker_Head-DisplayName\", \"Slinker Vestige\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Slinker_Head.T_ITEM_Slinker_Head",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalHead_Slinker.T_ITEM_AnimalHead_Slinker",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Slinker_Head-Description\", \"A preserved memory of a great feline.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Slinker_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
             "Weight": 1000,
@@ -25141,7 +25146,7 @@
         {
             "Name": "Item_Rabbit_Variant_Snow_Head",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rabbit_Variant_Snow_Head-DisplayName\", \"Snow Pygmy Lop Vestige\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Rabbit_Varient_Snow_Head.T_ITEM_Rabbit_Varient_Snow_Head",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalHead_PygmyLop.T_ITEM_AnimalHead_PygmyLop",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rabbit_Variant_Snow_Head-Description\", \"A preserved memory of a cute bunny.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rabbit_Variant_Snow_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
             "Weight": 1000,
@@ -26172,6 +26177,30 @@
             "Weight": 10000
         },
         {
+            "Name": "Item_Homestead_Kitchen_Corner",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Corner-DisplayName\", \"Homestead Kitchen Corner Bench\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Kitchen_Corner.T_ITEM_Homestead_Kitchen_Corner",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Corner-Description\", \"Can be used to make unique kitchen designs.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Corner-FlavorText\", \"For all your kitchen needs\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Homestead_Kitchen_Medicine",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Medicine-DisplayName\", \"Homestead Medicine Bench\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Kitchen_Herbalism.T_ITEM_Homestead_Kitchen_Herbalism",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Medicine-Description\", \"Used for creating tonics, pills and other medicines.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Medicine-FlavorText\", \"Slots nicely into your kitchen.\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Homestead_Kitchen_Butchery",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Butchery-DisplayName\", \"Homestead Butchery Bench\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Kitchen_Butchery.T_ITEM_Homestead_Kitchen_Butchery",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Butchery-Description\", \"A modular workspace for working with all kinds of meat products.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Kitchen_Butchery-FlavorText\", \"Be careful, the knives are sharp.\")",
+            "Weight": 20000
+        },
+        {
             "Name": "Item_Homestead_Shutter",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Shutter-DisplayName\", \"Homestead Shutter\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Shutter-2.T_ITEM_Homestead_Shutter-2",
@@ -26242,7 +26271,7 @@
         },
         {
             "Name": "Item_Homestead_Flower_Pot_A",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_A-DisplayName\", \"Homestead Flower Pot Classic\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_A-DisplayName\", \"Flower Pot Classic\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Flower_Pot_A_1.T_ITEM_Homestead_Flower_Pot_A_1",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_A-Description\", \"Can be filled with flowers to help decorate.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_A-FlavorText\", \"Home Sweet Home\")",
@@ -26250,7 +26279,7 @@
         },
         {
             "Name": "Item_Homestead_Flower_Pot_B",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_B-DisplayName\", \"Homestead Flower Pot Short\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_B-DisplayName\", \"Flower Pot Short\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Flower_Pot_B_1.T_ITEM_Homestead_Flower_Pot_B_1",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_B-Description\", \"Can be filled with flowers to help decorate.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_B-FlavorText\", \"Home Sweet Home\")",
@@ -26258,7 +26287,7 @@
         },
         {
             "Name": "Item_Homestead_Flower_Pot_C",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_C-DisplayName\", \"Homestead Flower Pot Round\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_C-DisplayName\", \"Flower Pot Round\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Flower_Pot_C_1.T_ITEM_Homestead_Flower_Pot_C_1",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_C-Description\", \"Can be filled with flowers to help decorate.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_C-FlavorText\", \"Home Sweet Home\")",
@@ -26266,7 +26295,7 @@
         },
         {
             "Name": "Item_Homestead_Flower_Pot_D",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_D-DisplayName\", \"Homestead Flower Pot Tall\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_D-DisplayName\", \"Flower Pot Tall\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Flower_Pot_D_1.T_ITEM_Homestead_Flower_Pot_D_1",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_D-Description\", \"Can be filled with flowers to help decorate.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_D-FlavorText\", \"Home Sweet Home\")",
@@ -26274,7 +26303,7 @@
         },
         {
             "Name": "Item_Homestead_Flower_Pot_E",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_E-DisplayName\", \"Homestead Flower Pot Round\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_E-DisplayName\", \"Flower Pot Round\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Homestead_Flower_Pot_E_1.T_ITEM_Homestead_Flower_Pot_E_1",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_E-Description\", \"Can be filled with flowers to help decorate.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Flower_Pot_E-FlavorText\", \"Home Sweet Home\")",
@@ -26371,29 +26400,6 @@
             "MaxStack": 10
         },
         {
-            "Name": "Item_Workshop_Rooster",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Rooster-DisplayName\", \"Cryogenically Frozen Rooster\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Rooster.T_ITEM_Workshop_Rooster",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Rooster-Description\", \"A Rooster preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Rooster-FlavorText\", \"Bok bok\")",
-            "Weight": 1000
-        },
-        {
-            "Name": "Item_Workshop_Bull",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Bull-DisplayName\", \"Cryogenically Frozen Bull\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Bull.T_ITEM_Workshop_Bull",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Bull-Description\", \"A Bull preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Bull-FlavorText\", \"Moo\")",
-            "Weight": 1000
-        },
-        {
-            "Name": "Item_Workshop_Ram",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Ram-DisplayName\", \"Cryogenically Frozen Ram\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Ram.T_ITEM_Workshop_Ram",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Ram-Description\", \"A Ram preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
-            "Weight": 1000
-        },
-        {
             "Name": "Item_Cooked_Banana",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Banana-DisplayName\", \"Roasted Banana\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Roast_Banana.T_ITEM_Roast_Banana",
@@ -26488,7 +26494,7 @@
         },
         {
             "Name": "Item_Sandwyrm_Egg",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Egg-DisplayName\", \"Sandworm Egg\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Egg-DisplayName\", \"Sandwyrm Egg\")",
             "Weight": 1000,
             "MaxStack": 25
         },
@@ -26528,15 +26534,185 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Oil_Can-DisplayName\", \"Oil Can\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Oil_Can.T_ITEM_Oil_Can",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Oil_Can-Description\", \"Canister for refined oil storage.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Oil_Can-FlavorText\", \"Lighteright alternative at the cost of resource amount.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Oil_Can-FlavorText\", \"Lightweight alternative at the cost of resource amount.\")",
             "Weight": 3000
         },
         {
             "Name": "Item_Eden_NPC_Hunter",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-DisplayName\", \"Predator Control Specialist Liardet\")",
             "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-Description\", \"UDA assigned Specialist who deals in all manner of Creatures within the area. \")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-Description\", \"UDA assigned Specialist who deals in all manner of Creatures within the area. Will buy Vestiages.\")",
             "Weight": 20000
+        },
+        {
+            "Name": "Item_Workshop_Chick_Male",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Chick_Male-DisplayName\", \"Cryogenically Frozen Chick (Male)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Chick_Male.T_ITEM_Chick_Male",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Chick_Male-Description\", \"A Chick preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Chick_Male-FlavorText\", \"Bok bok\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Workshop_Chick_Female",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Chick_Female-DisplayName\", \"Cryogenically Frozen Chick (Female)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Chick_Female.T_ITEM_Chick_Female",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Chick_Female-Description\", \"A Chick preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Chick_Female-FlavorText\", \"Bok bok\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Workshop_Calf_Male",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Calf_Male-DisplayName\", \"Cryogenically Frozen Calf (Male)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Calf_Male.T_ITEM_Calf_Male",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Calf_Male-Description\", \"A Calf preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Calf_Male-FlavorText\", \"Moo\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Workshop_Lamb_Male",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Lamb_Male-DisplayName\", \"Cryogenically Frozen Lamb (Male)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Lamb_Male.T_ITEM_Lamb_Male",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Lamb_Male-Description\", \"A Lamb preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Workshop_Lamb_Female",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Lamb_Female-DisplayName\", \"Cryogenically Frozen Lamb (Female)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Lamb_Female.T_ITEM_Lamb_Female",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Lamb_Female-Description\", \"A Lamb preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Deep_Mining_Drill_Oil",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Deep_Mining_Drill_Oil-DisplayName\", \"Oil Deep-Mining Drill\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Deep_Mining_Drill_Oil-Description\", \"An oil-powered drill capable of mining ore trapped deep under the surface.Has even more storage space.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Deep_Mining_Drill_Oil-FlavorText\", \"Drill baby Drill\")",
+            "Weight": 10000
+        },
+        {
+            "Name": "Item_Carcass_Pig",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Pig-DisplayName\", \"Pig Carcass\")",
+            "Weight": 6000
+        },
+        {
+            "Name": "Item_Carcass_Piglet",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Piglet-DisplayName\", \"Piglet Carcass\")",
+            "Weight": 5000
+        },
+        {
+            "Name": "Item_Lamb_Head",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Lamb_Head-DisplayName\", \"Lamb Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Lamb_Head.T_ITEM_Lamb_Head",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Lamb_Head-Description\", \"Once a little fur ball.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Lamb_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
+            "Weight": 500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Lamb_Trophy",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Lamb_Trophy-DisplayName\", \"Lamb Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Lamb_Trophy.T_ITEM_Lamb_Trophy",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Lamb_Trophy-Description\", \"A mounted Lamb.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Lamb_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
+            "Weight": 2000
+        },
+        {
+            "Name": "Item_Pig_Head",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Head-DisplayName\", \"Pig Vestige\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
+            "Weight": 500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Piglet_Head",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Head-DisplayName\", \"Piglet Vestige\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
+            "Weight": 500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Pig_Trophy",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Trophy-DisplayName\", \"Pig Trophy\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
+            "Weight": 500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Piglet_Trophy",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Trophy-DisplayName\", \"Piglet Trophy\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
+            "Weight": 500,
+            "MaxStack": 5
+        },
+        {
+            "Name": "Item_Metal_Grate_Floor",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Floor-DisplayName\", \"Industrial Floor\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Metal_Grate_Building_0.T_ITEM_Metal_Grate_Building_0",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Floor-Description\", \"Flooring with an industrial feel. \")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Floor-FlavorText\", \"Perfect for building walkways.\")",
+            "Weight": 1000,
+            "MaxStack": 20
+        },
+        {
+            "Name": "Item_Metal_Grate_Stairs",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Stairs-DisplayName\", \"Industrial Stairs\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Metal_Grate_Building_4.T_ITEM_Metal_Grate_Building_4",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Stairs-Description\", \"Stairs with an industrial feel. \")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Metal_Grate_Stairs-FlavorText\", \"Perfect for building walkways.\")",
+            "Weight": 1000,
+            "MaxStack": 20
+        },
+        {
+            "Name": "Item_Eden_NPC_Norex",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-DisplayName\", \"Norex Liason \\'Agent\\'\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-Description\", \"A Norex representative who deals in the trading of Biomass. Sells creature parts.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-FlavorText\", \"Why was it programmed with attitude.\")",
+            "Weight": 20000
+        },
+        {
+            "Name": "Item_Animal_Bed_Nesting",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Bed_Nesting-DisplayName\", \"Animal Nesting Bed\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Bed_Nesting-Description\", \"Can be used by animals to speed up the gestation process.\")",
+            "Weight": 1500
+        },
+        {
+            "Name": "Item_Prebuilt_Spawn_Location",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Prebuilt_Spawn_Location-DisplayName\", \"Prebuilt Spawn Location\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_NoRecipe.Icon_NoRecipe",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Prebuilt_Spawn_Location-Description\", \"Spawn marker for NPCs created alongside prebuilt structures\")",
+            "Weight": 1,
+            "MaxStack": 20
+        },
+        {
+            "Name": "Item_Eden_NPC_Farmer",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Farmer-DisplayName\", \"Cultivation Specialist Henrickson\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Farmer-Description\", \"UDA assigned Specialist who deals in all manner of Plants gowable on Icarus. Will buy Crops.\")",
+            "Weight": 20000
+        },
+        {
+            "Name": "Item_Eden_NPC_Fisher",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Fisher-DisplayName\", \"Chief Fisheries Officer Dunski\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Fisher-Description\", \"UDA assigned Specialist who deals in all manner of Aquatic Life on Icarus. Will buy Fish.\")",
+            "Weight": 20000
+        },
+        {
+            "Name": "Item_Eden_NPC_Chef",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Chef-DisplayName\", \"Food Shop\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Chef-Description\", \"The Food shop of the Culinary Specialist. \")",
+            "Weight": 20000
+        },
+        {
+            "Name": "Item_Gruel",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Gruel-DisplayName\", \"Gruel\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Gruel.T_ITEM_Gruel",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Gruel-Description\", \"Will satisfy your hunger, but not your taste buds. \")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Gruel-FlavorText\", \"Looks.... Appetising.....\")",
+            "Weight": 10,
+            "MaxStack": 100
         }
     ]
 }

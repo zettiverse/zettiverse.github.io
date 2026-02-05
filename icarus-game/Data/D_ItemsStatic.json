@@ -1998,7 +1998,7 @@
                         "TagName": "Item.Consumable.Food.Berry"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Fruit"
                     }
                 ]
             },
@@ -2008,7 +2008,7 @@
                         "TagName": "Item.Consumable.Food.Berry"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -9178,7 +9178,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     }
                 ]
             },
@@ -9191,7 +9191,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -9259,7 +9259,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     }
                 ]
             },
@@ -9272,7 +9272,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -9381,7 +9381,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Grain"
                     }
                 ]
             },
@@ -9391,7 +9391,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Grain"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -15318,7 +15318,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Herb"
                     }
                 ]
             },
@@ -15328,7 +15328,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Herb"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -15373,7 +15373,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Herb"
                     }
                 ]
             },
@@ -15383,7 +15383,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Herb"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -17062,7 +17062,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Grain"
                     }
                 ]
             },
@@ -17072,7 +17072,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Grain"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -29709,7 +29709,7 @@
                         "TagName": "Item.Consumable.Food.Corn"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     }
                 ]
             },
@@ -29719,7 +29719,7 @@
                         "TagName": "Item.Consumable.Food.Corn"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -42526,7 +42526,7 @@
                         "TagName": "Item.Consumable.Food.Pumpkin"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     }
                 ]
             },
@@ -42542,7 +42542,7 @@
                         "TagName": "Item.Consumable.Food.Pumpkin"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -42610,7 +42610,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Speciality"
                     }
                 ]
             },
@@ -42623,7 +42623,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Speciality"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -42694,7 +42694,7 @@
                         "TagName": "Item.Consumable.Food.Squash"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     }
                 ]
             },
@@ -42710,7 +42710,7 @@
                         "TagName": "Item.Consumable.Food.Squash"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -42781,7 +42781,7 @@
                         "TagName": "Item.Consumable.Food.Watermelon"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Fruit"
                     }
                 ]
             },
@@ -42797,7 +42797,7 @@
                         "TagName": "Item.Consumable.Food.Watermelon"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -44576,7 +44576,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Speciality"
                     }
                 ]
             },
@@ -44586,7 +44586,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Speciality"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -44630,7 +44630,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Speciality"
                     }
                 ]
             },
@@ -44640,7 +44640,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Speciality"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -44684,7 +44684,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Herb"
                     }
                 ]
             },
@@ -44694,7 +44694,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Herb"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -44738,7 +44738,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Herb"
                     }
                 ]
             },
@@ -44748,7 +44748,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Herb"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -64434,6 +64434,9 @@
                     },
                     {
                         "TagName": "Item.Fillable.Biofuel"
+                    },
+                    {
+                        "TagName": "Item.Deployable.ResourceStorage.Biofuel"
                     }
                 ]
             },
@@ -64453,6 +64456,9 @@
                     },
                     {
                         "TagName": "Item.Fillable.Biofuel"
+                    },
+                    {
+                        "TagName": "Item.Deployable.ResourceStorage.Biofuel"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -74176,7 +74182,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Fruit"
                     }
                 ]
             },
@@ -74189,7 +74195,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -74263,7 +74269,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     }
                 ]
             },
@@ -74276,7 +74282,7 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Vegetable"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -87811,6 +87817,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "NPC.Fish.Freshwater"
+                    },
+                    {
+                        "TagName": "NPC.Fish.Unique"
                     }
                 ]
             },
@@ -87818,6 +87827,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "NPC.Fish.Freshwater"
+                    },
+                    {
+                        "TagName": "NPC.Fish.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -87879,6 +87891,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "NPC.Fish.Saltwater"
+                    },
+                    {
+                        "TagName": "NPC.Fish.Unique"
                     }
                 ]
             },
@@ -87886,6 +87901,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "NPC.Fish.Saltwater"
+                    },
+                    {
+                        "TagName": "NPC.Fish.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -87947,6 +87965,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "NPC.Fish.Saltwater"
+                    },
+                    {
+                        "TagName": "NPC.Fish.Unique"
                     }
                 ]
             },
@@ -87954,6 +87975,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "NPC.Fish.Saltwater"
+                    },
+                    {
+                        "TagName": "NPC.Fish.Unique"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -90396,10 +90420,10 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
-                        "TagName": "FieldGuide.WorkshopOnly"
+                        "TagName": "Item.Plant.Vegetable"
                     }
                 ]
             },
@@ -90412,10 +90436,10 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
-                        "TagName": "FieldGuide.WorkshopOnly"
+                        "TagName": "Item.Plant.Vegetable"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -90483,10 +90507,10 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
-                        "TagName": "FieldGuide.WorkshopOnly"
+                        "TagName": "Item.Plant.Fruit"
                     }
                 ]
             },
@@ -90499,10 +90523,10 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
-                        "TagName": "FieldGuide.WorkshopOnly"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -90570,10 +90594,10 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
-                        "TagName": "FieldGuide.WorkshopOnly"
+                        "TagName": "Item.Plant.Fruit"
                     }
                 ]
             },
@@ -90586,10 +90610,10 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
-                        "TagName": "FieldGuide.WorkshopOnly"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -130273,7 +130297,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Grain"
                     }
                 ]
             },
@@ -130283,7 +130307,7 @@
                         "TagName": "Item.Resource"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Grain"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -141176,7 +141200,7 @@
                 "RowName": "Mesh_Generic_Trophy"
             },
             "Itemable": {
-                "RowName": "Item_Cat_Trophy_A3"
+                "RowName": "Item_Cat_Trophy_A2"
             },
             "Interactable": {
                 "RowName": "Deployable_NoInteract"
@@ -141259,7 +141283,7 @@
                 "RowName": "Mesh_Generic_Trophy"
             },
             "Itemable": {
-                "RowName": "Item_Cat_Trophy_A2"
+                "RowName": "Item_Cat_Trophy_A3"
             },
             "Interactable": {
                 "RowName": "Deployable_NoInteract"
@@ -147348,26 +147372,20 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Consumable.Food.Berry"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
-                        "TagName": "Item.Plant"
-                    },
-                    {
-                        "TagName": "Item.Consumable.Food.Cooked.Fruit"
+                        "TagName": "Item.Consumable.Food"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Consumable.Food.Berry"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
-                        "TagName": "Item.Plant"
-                    },
-                    {
-                        "TagName": "Item.Consumable.Food.Cooked.Fruit"
+                        "TagName": "Item.Consumable.Food"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -162176,6 +162194,94 @@
             }
         },
         {
+            "Name": "AnimalCarcass_Chick",
+            "Meshable": {
+                "RowName": "Mesh_Carcass_Chick"
+            },
+            "Itemable": {
+                "RowName": "Item_Carcass_Chick"
+            },
+            "Interactable": {
+                "RowName": "AnimalCorpse"
+            },
+            "Hitable": {
+                "RowName": "AnimalCarcass"
+            },
+            "Equippable": {
+                "RowName": "Equippable_Carcass_Small"
+            },
+            "Focusable": {
+                "RowName": "Focusable_Carcass_Hip"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Utilityslot_Drop"
+            },
+            "Durable": {
+                "RowName": "Carcass_Small"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "Carcass"
+            },
+            "CraftingExperience": 400,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Hitable"
+                    },
+                    {
+                        "TagName": "Traits.Equippable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
             "Name": "Milk_Bottle_Glass",
             "Meshable": {
                 "RowName": "Mesh_Milk_Bottle_Glass"
@@ -162338,6 +162444,100 @@
                     },
                     {
                         "TagName": "Traits.Fillable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "AnimalCarcass_Lamb",
+            "Meshable": {
+                "RowName": "Mesh_Carcass_Sheep"
+            },
+            "Itemable": {
+                "RowName": "Item_Carcass_Lamb"
+            },
+            "Interactable": {
+                "RowName": "AnimalCorpse"
+            },
+            "Hitable": {
+                "RowName": "AnimalCarcass"
+            },
+            "Equippable": {
+                "RowName": "Equippable_Carcass_Medium"
+            },
+            "Focusable": {
+                "RowName": "Focusable_Carcass_Wolf"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Utilityslot_Drop"
+            },
+            "Durable": {
+                "RowName": "Carcass_Medium"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "Carcass"
+            },
+            "CraftingExperience": 400,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Slot.SkinningBench"
+                    },
+                    {
+                        "TagName": "Harvest.Knife.T1"
+                    },
+                    {
+                        "TagName": "Item.Utility.ShowBackpack"
+                    },
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Hitable"
+                    },
+                    {
+                        "TagName": "Traits.Equippable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
                     }
                 ],
                 "ParentTags": []
@@ -165848,6 +166048,137 @@
                 "RequiredFeatureLevel": {
                     "RowName": "GreatHunts"
                 }
+            }
+        },
+        {
+            "Name": "Chick_Head",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Head"
+            },
+            "Itemable": {
+                "RowName": "Item_Chick_Head"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Audio": {
+                "RowName": "Default"
+            },
+            "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige.Common"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige.Common"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Chick_Trophy",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Trophy"
+            },
+            "Itemable": {
+                "RowName": "Item_Chick_Trophy"
+            },
+            "Interactable": {
+                "RowName": "Deployable_NoInteract"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Chick_Trophy"
+            },
+            "Durable": {
+                "RowName": "Deployable_250"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
+            "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
             }
         },
         {
@@ -171891,6 +172222,9 @@
             "Armour": {
                 "RowName": "SandArmor_Backpack"
             },
+            "Fillable": {
+                "RowName": "SandArmor_Backpack"
+            },
             "Durable": {
                 "RowName": "ArcticArmor"
             },
@@ -171904,6 +172238,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Backpack"
+                    },
+                    {
+                        "TagName": "Item.Powered.Battery"
                     }
                 ]
             },
@@ -171911,6 +172248,9 @@
                 "GameplayTags": [
                     {
                         "TagName": "Item.Backpack"
+                    },
+                    {
+                        "TagName": "Item.Powered.Battery"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -171929,6 +172269,9 @@
                     },
                     {
                         "TagName": "Traits.Armour"
+                    },
+                    {
+                        "TagName": "Traits.Fillable"
                     },
                     {
                         "TagName": "Traits.Durable"
@@ -174163,7 +174506,7 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
                         "TagName": "Item.Consumable.Food"
@@ -174173,7 +174516,7 @@
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "Item.Plant.Fruit"
                     },
                     {
                         "TagName": "Item.Consumable.Food"
@@ -184363,6 +184706,419 @@
                     },
                     {
                         "TagName": "Traits.Highlightable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Workshop_Lamb_Female",
+            "Meshable": {
+                "RowName": "Mesh_AnimalCage_Small"
+            },
+            "Itemable": {
+                "RowName": "Item_Workshop_Lamb_Female"
+            },
+            "Interactable": {
+                "RowName": "Deployable"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Workshop_Animal_Medium"
+            },
+            "Durable": {
+                "RowName": "Basic"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Transmutable": {
+                "RowName": "Fiber"
+            },
+            "Audio": {
+                "RowName": "MetalDeployable"
+            },
+            "CraftingExperience": 10,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Animal"
+                    },
+                    {
+                        "TagName": "Item.Meta.Package"
+                    },
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Animal"
+                    },
+                    {
+                        "TagName": "Item.Meta.Package"
+                    },
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Chick_Female",
+            "Meshable": {
+                "RowName": "Mesh_AnimalCage_Small"
+            },
+            "Itemable": {
+                "RowName": "Item_Workshop_Chick_Female"
+            },
+            "Interactable": {
+                "RowName": "Deployable"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Workshop_Animal_Small"
+            },
+            "Durable": {
+                "RowName": "Basic"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Transmutable": {
+                "RowName": "Fiber"
+            },
+            "Audio": {
+                "RowName": "MetalDeployable"
+            },
+            "CraftingExperience": 10,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Animal"
+                    },
+                    {
+                        "TagName": "Item.Meta.Package"
+                    },
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Animal"
+                    },
+                    {
+                        "TagName": "Item.Meta.Package"
+                    },
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Laika"
+                }
+            }
+        },
+        {
+            "Name": "Lamb_Head",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Head"
+            },
+            "Itemable": {
+                "RowName": "Item_Lamb_Head"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Audio": {
+                "RowName": "Default"
+            },
+            "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige.Common"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Vestige.Common"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Lamb_Trophy",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Trophy"
+            },
+            "Itemable": {
+                "RowName": "Item_Lamb_Trophy"
+            },
+            "Interactable": {
+                "RowName": "Deployable_NoInteract"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Lamb_Trophy"
+            },
+            "Durable": {
+                "RowName": "Deployable_250"
+            },
+            "Decayable": {
+                "RowName": "Decay_10_Minutes"
+            },
+            "Audio": {
+                "RowName": "GenericDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 4
+            },
+            "CraftingExperience": 200,
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Decoration.Trophy"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Prebuilt_Spawn_Location",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Crafting"
+            },
+            "Itemable": {
+                "RowName": "Item_Prebuilt_Spawn_Location"
+            },
+            "Interactable": {
+                "RowName": "Deployable_NoInteract"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Prebuilt_Spawn_Location"
+            },
+            "Durable": {
+                "RowName": "Basic"
+            },
+            "Experience": {
+                "RowName": "CraftedItem"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Weight": {
+                "RowName": "Weightless"
+            },
+            "Audio": {
+                "RowName": "MetalDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"IsInvulnerable_?\")": 1
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Audio.Shelter.Check"
+                    },
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Audio.Shelter.Check"
+                    },
+                    {
+                        "TagName": "FieldGuide.BlackList"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
                     }
                 ],
                 "ParentTags": []
