@@ -19509,6 +19509,12 @@
             "ItemStaticData": {
                 "RowName": "Prebuilt_Spawn_Location"
             }
+        },
+        {
+            "Name": "Prop_Dropship",
+            "ItemStaticData": {
+                "RowName": "Prop_Dropship"
+            }
         }
     ]
 }

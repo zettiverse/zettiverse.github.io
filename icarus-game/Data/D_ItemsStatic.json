@@ -185123,6 +185123,90 @@
                 ],
                 "ParentTags": []
             }
+        },
+        {
+            "Name": "Prop_Dropship",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Crafting"
+            },
+            "Itemable": {
+                "RowName": "Item_Prop_Dropship"
+            },
+            "Interactable": {
+                "RowName": "Deployable_NoInteract"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Deployable"
+            },
+            "Usable": {
+                "RowName": "Place"
+            },
+            "Deployable": {
+                "RowName": "Prop_Dropship"
+            },
+            "Durable": {
+                "RowName": "Deployable_1500"
+            },
+            "Experience": {
+                "RowName": "CraftedItem"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Weight": {
+                "RowName": "MediumDeployable"
+            },
+            "Audio": {
+                "RowName": "MetalDeployable"
+            },
+            "AdditionalStats": {
+                "(Value=\"BaseComfortLevel_+\")": 2
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Audio.Shelter.Check"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Audio.Shelter.Check"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    },
+                    {
+                        "TagName": "Traits.Deployable"
+                    },
+                    {
+                        "TagName": "Traits.Durable"
+                    }
+                ],
+                "ParentTags": []
+            }
         }
     ]
 }
