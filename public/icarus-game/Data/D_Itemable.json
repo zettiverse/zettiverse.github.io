@@ -26540,7 +26540,7 @@
         {
             "Name": "Item_Eden_NPC_Hunter",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-DisplayName\", \"Predator Control Specialist Liardet\")",
-            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_NPC_Hunter.T_Icon_Map_NPC_Hunter",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-Description\", \"UDA assigned Specialist who deals in all manner of Creatures within the area. Will buy Vestiages.\")",
             "Weight": 20000
         },
@@ -26665,7 +26665,7 @@
         {
             "Name": "Item_Eden_NPC_Norex",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-DisplayName\", \"Norex Liason \\'Agent\\'\")",
-            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_NPC_Norex.T_Icon_Map_NPC_Norex",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-Description\", \"A Norex representative who deals in the trading of Biomass. Sells creature parts.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-FlavorText\", \"Why was it programmed with attitude.\")",
             "Weight": 20000
@@ -26687,14 +26687,14 @@
         {
             "Name": "Item_Eden_NPC_Farmer",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Farmer-DisplayName\", \"Cultivation Specialist Henrickson\")",
-            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_NPC_Farmer.T_Icon_Map_NPC_Farmer",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Farmer-Description\", \"UDA assigned Specialist who deals in all manner of Plants gowable on Icarus. Will buy Crops.\")",
             "Weight": 20000
         },
         {
             "Name": "Item_Eden_NPC_Fisher",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Fisher-DisplayName\", \"Chief Fisheries Officer Dunski\")",
-            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_Prospector.T_Icon_Map_Prospector",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_NPC_Fisher.T_Icon_Map_NPC_Fisher",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Fisher-Description\", \"UDA assigned Specialist who deals in all manner of Aquatic Life on Icarus. Will buy Fish.\")",
             "Weight": 20000
         },
@@ -26713,6 +26713,22 @@
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Gruel-FlavorText\", \"Looks.... Appetising.....\")",
             "Weight": 10,
             "MaxStack": 100
+        },
+        {
+            "Name": "Item_Fur_Stack",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fur_Stack-DisplayName\", \"Fur Stack\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Fur_Stack.T_ITEM_Fur_Stack",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fur_Stack-Description\", \"A neatly rolled stack containing 200 Fur. \\'CONSUME\\' to open bundle.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fur_Stack-FlavorText\", \"Fur remains an exceptional material, especially in the terrazone, where temperatures are significantly cooler.\")",
+            "Weight": 12500
+        },
+        {
+            "Name": "Item_Prop_Dropship",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Prop_Dropship-DisplayName\", \"UDA Dropship\")",
+            "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Dropship.Icon_Map_Dropship",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Prop_Dropship-Description\", \"A certified UDA dropshop.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Prop_Dropship-FlavorText\", \"How does this thing stay in tact?\")",
+            "Weight": 1000
         }
     ]
 }
