@@ -16683,6 +16683,28 @@
             }
         },
         {
+            "Name": "Bull_Head",
+            "ItemStaticData": {
+                "RowName": "Bull_Head"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Bull_Trophy",
+            "ItemStaticData": {
+                "RowName": "Bull_Trophy"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Meta_Biolab_Inhaler_LavaHunter",
             "ItemStaticData": {
                 "RowName": "Meta_Biolab_Inhaler_LavaHunter"
@@ -16723,6 +16745,50 @@
             "Metadata": {
                 "RequiredFeatureLevel": {
                     "RowName": "GreatHunts"
+                }
+            }
+        },
+        {
+            "Name": "Rooster_Head",
+            "ItemStaticData": {
+                "RowName": "Bull_Head"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Rooster_Trophy",
+            "ItemStaticData": {
+                "RowName": "Bull_Head"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Ram_Head",
+            "ItemStaticData": {
+                "RowName": "Ram_Head"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Ram_Trophy",
+            "ItemStaticData": {
+                "RowName": "Bull_Head"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
                 }
             }
         },
@@ -17201,6 +17267,39 @@
             }
         },
         {
+            "Name": "Homestead_Food_Silo",
+            "ItemStaticData": {
+                "RowName": "Homestead_Food_Silo"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Quilted_Bed",
+            "ItemStaticData": {
+                "RowName": "Homestead_Quilted_Bed"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Pitchfork",
+            "ItemStaticData": {
+                "RowName": "Homestead_Pitchfork"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Chick_Head",
             "ItemStaticData": {
                 "RowName": "Chick_Head"
@@ -17240,6 +17339,39 @@
             "Name": "ResearchEquipment_LabDesk",
             "ItemStaticData": {
                 "RowName": "ResearchEquipment_LabDesk"
+            }
+        },
+        {
+            "Name": "Homestead_Farm_Railing_Gate",
+            "ItemStaticData": {
+                "RowName": "Homestead_Farm_Railing_Gate"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Farm_Railing",
+            "ItemStaticData": {
+                "RowName": "Homestead_Farm_Railing"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_BarnDoor",
+            "ItemStaticData": {
+                "RowName": "Homestead_BarnDoor"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
             }
         },
         {
@@ -17331,9 +17463,75 @@
             }
         },
         {
+            "Name": "Homestead_Swing_Chair",
+            "ItemStaticData": {
+                "RowName": "Homestead_Swing_Chair"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Soft_Sofa_Single",
+            "ItemStaticData": {
+                "RowName": "Homestead_Soft_Sofa_Single"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Soft_Sofa_Double",
+            "ItemStaticData": {
+                "RowName": "Homestead_Soft_Sofa_Double"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "MakeshiftRadio",
             "ItemStaticData": {
                 "RowName": "MakeshiftRadio"
+            }
+        },
+        {
+            "Name": "Homestead_PlanterBox_SML",
+            "ItemStaticData": {
+                "RowName": "Homestead_PlanterBox_SML"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Spawn_Blocker_Scarecrow",
+            "ItemStaticData": {
+                "RowName": "Homestead_Spawn_Blocker_Scarecrow"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Water_Tank",
+            "ItemStaticData": {
+                "RowName": "Homestead_Water_Tank"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
             }
         },
         {
@@ -17367,6 +17565,39 @@
             }
         },
         {
+            "Name": "Homestead_Cabinet",
+            "ItemStaticData": {
+                "RowName": "Homestead_Cabinet"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Cabinet_LRG",
+            "ItemStaticData": {
+                "RowName": "Homestead_Cabinet_LRG"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_BirdFeeder",
+            "ItemStaticData": {
+                "RowName": "Homestead_BirdFeeder"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Mission_EDSCanister",
             "ItemStaticData": {
                 "RowName": "Mission_Neurotoxic_Aerosol"
@@ -17376,6 +17607,61 @@
             "Name": "Dead_Researcher",
             "ItemStaticData": {
                 "RowName": "Dead_Researcher"
+            }
+        },
+        {
+            "Name": "Homestead_Sewing_Machine",
+            "ItemStaticData": {
+                "RowName": "Homestead_Sewing_Machine"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Ranch_Sign",
+            "ItemStaticData": {
+                "RowName": "Homestead_Ranch_Sign"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Ranch_Gate_Sign",
+            "ItemStaticData": {
+                "RowName": "Homestead_Ranch_Gate_Sign"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Vintage_Jar",
+            "ItemStaticData": {
+                "RowName": "Homestead_Vintage_Jar"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Honey_Pot",
+            "ItemStaticData": {
+                "RowName": "Homestead_Honey_Pot"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
             }
         },
         {
@@ -17406,6 +17692,127 @@
             "Name": "Juvenile_Ape_Head",
             "ItemStaticData": {
                 "RowName": "Juvenile_Ape_Head"
+            }
+        },
+        {
+            "Name": "Homestead_Coffee_Grinder",
+            "ItemStaticData": {
+                "RowName": "Homestead_Coffee_Grinder"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Butter_Churn",
+            "ItemStaticData": {
+                "RowName": "Homestead_Butter_Churn"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Butter_Churn_Large",
+            "ItemStaticData": {
+                "RowName": "Homestead_Butter_Churn_Large"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Hanging_Meat",
+            "ItemStaticData": {
+                "RowName": "Homestead_Hanging_Meat"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Cheese",
+            "ItemStaticData": {
+                "RowName": "Homestead_Cheese"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Rocking_Chair_Single",
+            "ItemStaticData": {
+                "RowName": "Homestead_Rocking_Chair_Single"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Rocking_Chair_Double",
+            "ItemStaticData": {
+                "RowName": "Homestead_Rocking_Chair_Double"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Picnic_Table",
+            "ItemStaticData": {
+                "RowName": "Homestead_Picnic_Table"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Barbed_Wire_Fence",
+            "ItemStaticData": {
+                "RowName": "Homestead_Barbed_Wire_Fence"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Lamp_Ground",
+            "ItemStaticData": {
+                "RowName": "Homestead_Lamp_Ground"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Lamp_Wall",
+            "ItemStaticData": {
+                "RowName": "Homestead_Lamp_Wall"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
             }
         },
         {
@@ -17455,6 +17862,28 @@
                     "Value": 100
                 }
             ]
+        },
+        {
+            "Name": "Homestead_Weapon_Rack",
+            "ItemStaticData": {
+                "RowName": "Homestead_Weapon_Rack"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Weapon_Rack_Single",
+            "ItemStaticData": {
+                "RowName": "Homestead_Weapon_Rack_Single"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
         },
         {
             "Name": "Ammo_AssaultRifle_Round",
@@ -19011,6 +19440,44 @@
             }
         },
         {
+            "Name": "Truffle",
+            "ItemStaticData": {
+                "RowName": "Truffle"
+            }
+        },
+        {
+            "Name": "Truffle_Seed",
+            "ItemStaticData": {
+                "RowName": "Seed"
+            },
+            "ItemCustomStats": [
+                {
+                    "Stat": {
+                        "Value": "SeedType_Enum"
+                    },
+                    "Value": 31
+                }
+            ]
+        },
+        {
+            "Name": "Cooked_Truffle",
+            "ItemStaticData": {
+                "RowName": "Cooked_Truffle"
+            }
+        },
+        {
+            "Name": "Truffle_Focaccia",
+            "ItemStaticData": {
+                "RowName": "Truffle_Focaccia"
+            }
+        },
+        {
+            "Name": "Truffle_Pasta",
+            "ItemStaticData": {
+                "RowName": "Truffle_Pasta"
+            }
+        },
+        {
             "Name": "StoneBrick_Fireplace",
             "ItemStaticData": {
                 "RowName": "StoneBrick_Fireplace"
@@ -19026,6 +19493,50 @@
             "Name": "StoneBrick_Fireplace_Cap",
             "ItemStaticData": {
                 "RowName": "StoneBrick_Fireplace_Cap"
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace",
+            "ItemStaticData": {
+                "RowName": "Homestead_Fireplace"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace_Ext",
+            "ItemStaticData": {
+                "RowName": "Homestead_Fireplace_Ext"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace_Cap",
+            "ItemStaticData": {
+                "RowName": "Homestead_Fireplace_Cap"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Hay_Bale",
+            "ItemStaticData": {
+                "RowName": "Hay_Bale"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
             }
         },
         {
@@ -19465,9 +19976,592 @@
             }
         },
         {
+            "Name": "Homestead_Wall_Candle",
+            "ItemStaticData": {
+                "RowName": "Homestead_Wall_Candle"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Refrigerator",
+            "ItemStaticData": {
+                "RowName": "Homestead_Refrigerator"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Copper_Pot",
+            "ItemStaticData": {
+                "RowName": "Homestead_Copper_Pot"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Cushion_A",
+            "ItemStaticData": {
+                "RowName": "Homestead_Cushion_A"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Cushion_B",
+            "ItemStaticData": {
+                "RowName": "Homestead_Cushion_B"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Lantern",
+            "ItemStaticData": {
+                "RowName": "Homestead_Lantern"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace_Tools",
+            "ItemStaticData": {
+                "RowName": "Homestead_Fireplace_Tools"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace_Screen",
+            "ItemStaticData": {
+                "RowName": "Homestead_Fireplace_Screen"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace_Bellows",
+            "ItemStaticData": {
+                "RowName": "Homestead_Fireplace_Bellows"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Knitting_Decor",
+            "ItemStaticData": {
+                "RowName": "Homestead_Knitting_Decor"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Birdbath_Iron",
+            "ItemStaticData": {
+                "RowName": "Homestead_BirdBath_Iron"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Birdbath_Gold",
+            "ItemStaticData": {
+                "RowName": "Homestead_BirdBath_Gold"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Well",
+            "ItemStaticData": {
+                "RowName": "Homestead_Well"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Spinning_Wheel",
+            "ItemStaticData": {
+                "RowName": "Homestead_Spinning_Wheel"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Kitchen_Bench",
+            "ItemStaticData": {
+                "RowName": "Homestead_Kitchen_Bench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Kitchen_Sink",
+            "ItemStaticData": {
+                "RowName": "Homestead_Kitchen_Sink"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Kitchen_Stove",
+            "ItemStaticData": {
+                "RowName": "Homestead_Kitchen_Stove"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Kitchen_Storage",
+            "ItemStaticData": {
+                "RowName": "Homestead_Kitchen_Storage"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Kitchen_Corner",
+            "ItemStaticData": {
+                "RowName": "Homestead_Kitchen_Corner"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Kitchen_Butchery",
+            "ItemStaticData": {
+                "RowName": "Homestead_Kitchen_Butchery"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Kitchen_Herbalism",
+            "ItemStaticData": {
+                "RowName": "Homestead_Kitchen_Herbalism"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Shutter",
+            "ItemStaticData": {
+                "RowName": "Homestead_Shutter"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Curtain",
+            "ItemStaticData": {
+                "RowName": "Homestead_Curtain"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Saloon_Door",
+            "ItemStaticData": {
+                "RowName": "Homestead_Saloon_Door"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Cuckcoo_Clock",
+            "ItemStaticData": {
+                "RowName": "Homestead_Cuckcoo_Clock"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Weather_Vane",
+            "ItemStaticData": {
+                "RowName": "Homestead_Weather_Vane"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Nesting_Box",
+            "ItemStaticData": {
+                "RowName": "Nesting_Box"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Iron_Stove",
+            "ItemStaticData": {
+                "RowName": "Homestead_Iron_Stove"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Retaining_Wall",
+            "ItemStaticData": {
+                "RowName": "Homestead_Retaining_Wall"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Flower_Pot_A",
+            "ItemStaticData": {
+                "RowName": "Homestead_Flower_Pot_A"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Flower_Pot_B",
+            "ItemStaticData": {
+                "RowName": "Homestead_Flower_Pot_B"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Flower_Pot_C",
+            "ItemStaticData": {
+                "RowName": "Homestead_Flower_Pot_C"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Flower_Pot_D",
+            "ItemStaticData": {
+                "RowName": "Homestead_Flower_Pot_D"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Flower_Pot_E",
+            "ItemStaticData": {
+                "RowName": "Homestead_Flower_Pot_E"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Wildflower_Bluebell",
+            "ItemStaticData": {
+                "RowName": "Homestead_Wildflower_Bluebell"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Wildflower_Daisy",
+            "ItemStaticData": {
+                "RowName": "Homestead_Wildflower_Daisy"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Wildflower_Lavender",
+            "ItemStaticData": {
+                "RowName": "Homestead_Wildflower_Lavender"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Wildflower_Poppy",
+            "ItemStaticData": {
+                "RowName": "Homestead_Wildflower_Poppy"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Wildflower_Strawflower",
+            "ItemStaticData": {
+                "RowName": "Homestead_Wildflower_Strawflower"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Chicken",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Chicken"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Cow",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Cow"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Sheep",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Sheep"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Moa",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Moa"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Buffalo",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Buffalo"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Pig",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Pig"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Elephant_Tusk",
             "ItemStaticData": {
                 "RowName": "Elephant_Tusk"
+            }
+        },
+        {
+            "Name": "Workshop_Cat_B",
+            "ItemStaticData": {
+                "RowName": "Workshop_Cat_B"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Cat_C",
+            "ItemStaticData": {
+                "RowName": "Workshop_Cat_C"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Dog_C2",
+            "ItemStaticData": {
+                "RowName": "Workshop_Dog_C2"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Dog_E",
+            "ItemStaticData": {
+                "RowName": "Workshop_Dog_E"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Kitchen_Sink",
+            "ItemStaticData": {
+                "RowName": "Kitchen_Sink"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Lamb_Male",
+            "ItemStaticData": {
+                "RowName": "Workshop_Lamb_Male"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Calf_Male",
+            "ItemStaticData": {
+                "RowName": "Workshop_Calf_Male"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Chick_Male",
+            "ItemStaticData": {
+                "RowName": "Workshop_Chick_Male"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
             }
         },
         {
@@ -19505,6 +20599,61 @@
             }
         },
         {
+            "Name": "Piglet_Head",
+            "ItemStaticData": {
+                "RowName": "Piglet_Head"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Piglet_Trophy",
+            "ItemStaticData": {
+                "RowName": "Piglet_Trophy"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Pig_Head",
+            "ItemStaticData": {
+                "RowName": "Pig_Head"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Pig_Trophy",
+            "ItemStaticData": {
+                "RowName": "Piglet_Trophy"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Animal_Bed_Nesting",
+            "ItemStaticData": {
+                "RowName": "Animal_Bed_Nesting"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Prebuilt_Spawn_Location",
             "ItemStaticData": {
                 "RowName": "Prebuilt_Spawn_Location"
@@ -19514,6 +20663,72 @@
             "Name": "Prop_Dropship",
             "ItemStaticData": {
                 "RowName": "Prop_Dropship"
+            }
+        },
+        {
+            "Name": "Workshop_Piglet_Male",
+            "ItemStaticData": {
+                "RowName": "Workshop_Piglet_Male"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Workshop_Piglet_Female",
+            "ItemStaticData": {
+                "RowName": "Workshop_Piglet_Female"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Animal_Gruel_Fruit",
+            "ItemStaticData": {
+                "RowName": "Animal_Gruel_Fruit"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Animal_Gruel_Vegetable",
+            "ItemStaticData": {
+                "RowName": "Animal_Gruel_Vegetable"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Animal_Gruel_Meat",
+            "ItemStaticData": {
+                "RowName": "Animal_Gruel_Meat"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Animal_Gruel_Fish",
+            "ItemStaticData": {
+                "RowName": "Animal_Gruel_Fish"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
             }
         }
     ]

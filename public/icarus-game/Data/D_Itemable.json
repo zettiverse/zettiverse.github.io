@@ -13578,7 +13578,8 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Head_Landshark.T_ITEM_Head_Landshark",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Land_Shark_Head-Description\", \"A preserved memory of a once-great Landshark.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Land_Shark_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
-            "Weight": 5000
+            "Weight": 5000,
+            "MaxStack": 5
         },
         {
             "Name": "Item_Ubis_Head",
@@ -15235,7 +15236,7 @@
         },
         {
             "Name": "Item_Meta_Sickle_Inaris_01",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-DisplayName\", \"Inaris \\'Thorn\\' Sickle\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-DisplayName\", \"Inaris \\\"Thorn\\\" Sickle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/T_ITEM_Meta_Sickle_Inaris_01.T_ITEM_Meta_Sickle_Inaris_01",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-Description\", \"A sickle infused with distilled miasmic coating to provide bonuses when harvesting.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_01-FlavorText\", \"Another tool for your arsenal.\")",
@@ -15243,7 +15244,7 @@
         },
         {
             "Name": "Item_Meta_Sickle_Inaris_02",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-DisplayName\", \"Inaris \\'Scorch\\' Sickle\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-DisplayName\", \"Inaris \\\"Scorch\\\" Sickle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/T_ITEM_Meta_Sickle_Inaris_02.T_ITEM_Meta_Sickle_Inaris_02",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-Description\", \"A sickle which emits heats thanks to its obsidian core.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_02-FlavorText\", \"Another tool for your arsenal.\")",
@@ -15251,7 +15252,7 @@
         },
         {
             "Name": "Item_Meta_Sickle_Inaris_03",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-DisplayName\", \"Inaris \\'Icy\\' Sickle\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-DisplayName\", \"Inaris \\\"Icy\\\" Sickle\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/T_ITEM_Meta_Sickle_Inaris_03.T_ITEM_Meta_Sickle_Inaris_03",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-Description\", \"A sickle that is kept frosty due to the research into super cooled ice.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_Sickle_Inaris_03-FlavorText\", \"Another tool for your arsenal.\")",
@@ -16093,7 +16094,7 @@
             "Name": "Item_Food_Trough_T4",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Food_Trough_T4-DisplayName\", \"Electronic Food Trough\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Food_Trough_T4.T_ITEM_Food_Trough_T4",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Food_Trough_T4-Description\", \"A feeder which when powered, will convert any food placed inside into Omni Animal Feed for animals to enjoy.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Food_Trough_T4-Description\", \"A feeder which can create different types of animal gruel depending on what is placed inside.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Food_Trough_T4-FlavorText\", \"Takes the pressure out of cooking.\")",
             "Weight": 3000
         },
@@ -16666,10 +16667,10 @@
             "Name": "Item_Animal_Feed_High_Quality",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Feed_High_Quality-DisplayName\", \"Omni Animal Feed\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_Animal_Feed_High_Quality.T_Animal_Feed_High_Quality",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Feed_High_Quality-Description\", \"Created in the Electronic Food Trough and when fed to animals increases food effectiveness and provides all round bonuses.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Feed_High_Quality-Description\", \"Created in the Ranching Station. When fed to animals, increases food effectiveness and provides all-round bonuses.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Feed_High_Quality-FlavorText\", \"Looks good enough to eat.\")",
             "Weight": 50,
-            "MaxStack": 100
+            "MaxStack": 25
         },
         {
             "Name": "Workshop_Purification_Tablet",
@@ -19968,6 +19969,7 @@
         {
             "Name": "Item_Carcass_Ram",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Ram-DisplayName\", \"Ram Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Ram.T_ITEM_AnimalCarcass_Ram",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Ram-Description\", \"A woolly friend lies at your feet, now dead.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Ram-FlavorText\", \"Frozen on Earth, Defrosted on Icarus, What a Life...\")",
             "Weight": 5000
@@ -20151,6 +20153,7 @@
         {
             "Name": "Item_Rooster_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Rooster_Trophy-DisplayName\", \"Rooster Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Rooster_Trophy.T_ITEM_Rooster_Trophy",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Rooster_Trophy-Description\", \"A mounted Rooster.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Rooster_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 2000
@@ -20681,7 +20684,7 @@
             "Name": "Item_Homestead_Pitchfork",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Pitchfork-DisplayName\", \"Homestead Pitchfork\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Weapons/Spears/T_ITEM_Pitchfork.T_ITEM_Pitchfork",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Pitchfork-Description\", \"Pitchfork\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Pitchfork-Description\", \"A farming tool which combines the functionality of a sickle with the stabbing of a spear.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Homestead_Pitchfork-FlavorText\", \"Pointy.\")",
             "Weight": 2500
         },
@@ -21726,7 +21729,7 @@
             "Name": "Item_SandArmor_Backpack",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_SandArmor_Backpack-DisplayName\", \"Carbonweave Backpack\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_SandArmor_Backpack.T_ITEM_SandArmor_Backpack",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_SandArmor_Backpack-Description\", \"A powered backpack that emits an aura of fall damage reduction and is made to help protect againat exposure. Can be recharged at the Charging Station.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_SandArmor_Backpack-Description\", \"A powered backpack that emits an aura of fall damage reduction and is made to help protect against exposure. Can be recharged at the Charging Station.\")",
             "Weight": 1000
         },
         {
@@ -23134,6 +23137,51 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Uranium_Converter-Description\", \"A high-speed centrifuge engineered to refine fissile material with maximum efficiency.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Uranium_Converter-FlavorText\", \"Just keep spinning.\")",
             "Weight": 50000
+        },
+        {
+            "Name": "Item_Truffle",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle-DisplayName\", \"Truffle\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Truffle.T_ITEM_Truffle",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle-Description\", \"A rare fungus prized for its strong aroma and flavour.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle-FlavorText\", \"A delicacy worth more than its weight in gold.\")",
+            "Weight": 100,
+            "MaxStack": 100
+        },
+        {
+            "Name": "Item_Truffle_Seed",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Seed-DisplayName\", \"Truffle Seed\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Seeds/T_ITEM_Seed_Truffle.T_ITEM_Seed_Truffle",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Seed-Description\", \"Can be planted in a Dirt Mound or Crop Plot.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Seed-FlavorText\", \"You reap what you sow.\")",
+            "Weight": 10,
+            "MaxStack": 400
+        },
+        {
+            "Name": "Item_Cooked_Truffle",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Truffle-DisplayName\", \"Cooked Truffle\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Cooked_Truffle.T_ITEM_Cooked_Truffle",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Truffle-Description\", \"Cooked to enhance its earthy, luxurious flavour.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cooked_Truffle-FlavorText\", \"Earthy notes that whisper of rare indulgence on this side of the system.\")",
+            "Weight": 100,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_Truffle_Focaccia",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Focaccia-DisplayName\", \"Truffle Focaccia\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Truffle_Focaccia.T_ITEM_Truffle_Focaccia",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Focaccia-Description\", \"A soft, savoury bread laced with truffle flavour.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Focaccia-FlavorText\", \"A bread that elevates survival into art.\")",
+            "Weight": 100,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_Truffle_Pasta",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Pasta-DisplayName\", \"Truffle Pasta\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Truffle_Pasta.T_ITEM_Truffle_Pasta",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Pasta-Description\", \"Rich pasta enhanced with the depth of truffle.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Truffle_Pasta-FlavorText\", \"A dish that tastes like victory itself.\")",
+            "Weight": 300,
+            "MaxStack": 10
         },
         {
             "Name": "Item_Concrete_Diagonal_Set",
@@ -25226,6 +25274,7 @@
         {
             "Name": "Item_Geothermal_Bat_Head",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Geothermal_Bat_Head-DisplayName\", \"Sulfur Vesper Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Geothermal_Bat_Head.T_ITEM_Geothermal_Bat_Head",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Geothermal_Bat_Head-Description\", \"What remains of a mutated bat-like creature.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Geothermal_Bat_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
             "Weight": 1000,
@@ -25637,6 +25686,7 @@
         {
             "Name": "Item_Enzyme_Vat_Empty",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Enzyme_Vat_Empty-DisplayName\", \"Enzyme Vat (Empty)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Props/T_ITEM_Prop_Enzyme_Vat_Empty.T_ITEM_Prop_Enzyme_Vat_Empty",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Enzyme_Vat_Empty-Description\", \"A huge vat previously filled with terraforming enzymes.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Enzyme_Vat_Empty-FlavorText\", \"This is bad. Very bad.\")",
             "Weight": 5000,
@@ -25919,6 +25969,7 @@
         {
             "Name": "Item_Sandscuttle_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandscuttle_Trophy-DisplayName\", \"Scuttler Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Sandscuttle_Trophy.T_ITEM_Sandscuttle_Trophy",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandscuttle_Trophy-Description\", \"The mounted remains of a Scuttler.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandscuttle_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 3500
@@ -25926,6 +25977,7 @@
         {
             "Name": "Item_Mange_Wolf_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Mange_Wolf_Trophy-DisplayName\", \"Skulmutt Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Mange_Wolf_Trophy.T_ITEM_Mange_Wolf_Trophy",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mange_Wolf_Trophy-Description\", \"The mounted remains of a Skulmutt.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Mange_Wolf_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 3500
@@ -25933,6 +25985,7 @@
         {
             "Name": "Item_Mange_Wolf_Alpha_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Mange_Wolf_Alpha_Trophy-DisplayName\", \"Skulmutt Prime Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Mange_Wolf_Alpha_Trophy.T_ITEM_Mange_Wolf_Alpha_Trophy",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Mange_Wolf_Alpha_Trophy-Description\", \"The mounted remains of a Skulmutt Prime.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Mange_Wolf_Alpha_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 3500
@@ -26358,8 +26411,8 @@
             "Name": "Item_Fertility_Serum_Chicken",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-DisplayName\", \"Rooster Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Rooster.T_ITEM_Serum_Rooster",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-Description\", \"Primes Roosters for mating. Once primed will seek out and fertalize nearby chickens.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-FlavorText\", \"Chicks\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-Description\", \"Primes Roosters for mating. Once primed will seek out and fertilize nearby chickens.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-FlavorText\", \"Husbandy has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26367,8 +26420,8 @@
             "Name": "Item_Fertility_Serum_Sheep",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-DisplayName\", \"Ram Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Ram.T_ITEM_Serum_Ram",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-Description\", \"Primes Rams for mating. Once primed will seek out and fertalize nearby sheep.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-FlavorText\", \"Kids\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-Description\", \"Primes Rams for mating. Once primed will seek out and fertilize nearby sheep.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-FlavorText\", \"Husbandy has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26376,8 +26429,8 @@
             "Name": "Item_Fertility_Serum_Cow",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-DisplayName\", \"Bull Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Bull.T_ITEM_Serum_Bull",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-Description\", \"Primes Bulls for mating. Once primed will seek out and fertalize nearby Cows.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-FlavorText\", \"Calfs\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-Description\", \"Primes Bulls for mating. Once primed will seek out and fertilize nearby Cows.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-FlavorText\", \"Husbandy has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26385,8 +26438,8 @@
             "Name": "Item_Fertility_Serum_Moa",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-DisplayName\", \"Moa Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Moa.T_ITEM_Serum_Moa",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-Description\", \"Primes Male Moa\\'s for mating. Once primed will seek out and fertalize nearby Female Moa\\'s.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-FlavorText\", \"Juvenile Moa\\'s\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-Description\", \"Primes Male Moa\\'s for mating. Once primed will seek out and fertilize nearby Female Moa\\'s.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-FlavorText\", \"Husbandy has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26394,8 +26447,8 @@
             "Name": "Item_Fertility_Serum_Buffalo",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-DisplayName\", \"Buffalo Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Buffalo.T_ITEM_Serum_Buffalo",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-Description\", \"Primes Male Buffalo for mating. Once primed will seek out and fertalize nearby Female Buffalo.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-FlavorText\", \"Juvenile Buffalo\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-Description\", \"Primes Male Buffalo for mating. Once primed will seek out and fertilize nearby Female Buffalo.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-FlavorText\", \"Husbandy has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26495,39 +26548,46 @@
         {
             "Name": "Item_Sandwyrm_Egg",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Egg-DisplayName\", \"Sandwyrm Egg\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Sandwyrm_Egg.T_ITEM_Sandwyrm_Egg",
             "Weight": 1000,
             "MaxStack": 25
         },
         {
             "Name": "Item_Sandwyrm_Lantern",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lantern-DisplayName\", \"Sandwyrm Lantern\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Sandwyrm_Latern.T_ITEM_Sandwyrm_Latern",
             "Weight": 250
         },
         {
             "Name": "Item_Sandwyrm_Backpack",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Backpack-DisplayName\", \"Sandwyrm Backpack\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Sandwyrm_Backpack.T_ITEM_Sandwyrm_Backpack",
             "Weight": 250
         },
         {
             "Name": "Item_Sandwyrm_Lure",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lure-DisplayName\", \"Sandwyrm Lure\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Fishing/T_ITEM_Sandwyrm_Lure.T_ITEM_Sandwyrm_Lure",
             "Weight": 250
         },
         {
             "Name": "Item_Sandwyrm_Target",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Target-DisplayName\", \"Sandwyrm Target\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Sandwyrm_Target.T_ITEM_Sandwyrm_Target",
             "Weight": 250
         },
         {
             "Name": "Item_Sandwyrm_Throne",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Throne-DisplayName\", \"Sandwrym Throne\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Sandwyrm_Chair.T_ITEM_Sandwyrm_Chair",
             "Weight": 500
         },
         {
-            "Name": "Item_Sandwyrm_Chair",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Chair-DisplayName\", \"Sandwyrm Chair\")",
+            "Name": "Item_Sandwyrm_Bow",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Bow-DisplayName\", \"Sandwyrm Bow\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Weapons/Bows/T_ITEM_Sandwyrm_Bow.T_ITEM_Sandwyrm_Bow",
             "FlavorText": "INVTEXT(\".\")",
-            "Weight": 500
+            "Weight": 1000
         },
         {
             "Name": "Item_Oil_Can",
@@ -26541,7 +26601,7 @@
             "Name": "Item_Eden_NPC_Hunter",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-DisplayName\", \"Predator Control Specialist Liardet\")",
             "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_NPC_Hunter.T_Icon_Map_NPC_Hunter",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-Description\", \"UDA assigned Specialist who deals in all manner of Creatures within the area. Will buy Vestiages.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Hunter-Description\", \"UDA assigned Specialist who deals in all manner of Creatures within the area. Will buy Vestiges.\")",
             "Weight": 20000
         },
         {
@@ -26592,11 +26652,17 @@
         {
             "Name": "Item_Carcass_Pig",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Pig-DisplayName\", \"Pig Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Pig.T_ITEM_AnimalCarcass_Pig",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Pig-Description\", \"Was once a little pig,  raised for the slaughter.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Pig-FlavorText\", \"Oinks no more.\")",
             "Weight": 6000
         },
         {
             "Name": "Item_Carcass_Piglet",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Piglet-DisplayName\", \"Piglet Carcass\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Piglet.T_ITEM_AnimalCarcass_Piglet",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Piglet-Description\", \"The remains of an animals, whose life was cut too short.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_Piglet-FlavorText\", \"Cute, even in death.\")",
             "Weight": 5000
         },
         {
@@ -26619,6 +26685,8 @@
         {
             "Name": "Item_Pig_Head",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Head-DisplayName\", \"Pig Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Pig_Head.T_ITEM_Pig_Head",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Head-Description\", \"A preserved memory of a snouted friend.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
             "Weight": 500,
             "MaxStack": 5
@@ -26626,6 +26694,8 @@
         {
             "Name": "Item_Piglet_Head",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Head-DisplayName\", \"Piglet Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Piglet_Head.T_ITEM_Piglet_Head",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Head-Description\", \"A preserved memory of a little pig.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
             "Weight": 500,
             "MaxStack": 5
@@ -26633,6 +26703,8 @@
         {
             "Name": "Item_Pig_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Trophy-DisplayName\", \"Pig Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Pig_Trophy.T_ITEM_Pig_Trophy",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Trophy-Description\", \"The mounted remains for a creature preserved forever.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Pig_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 500,
             "MaxStack": 5
@@ -26640,6 +26712,8 @@
         {
             "Name": "Item_Piglet_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Trophy-DisplayName\", \"Piglet Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Piglet_Trophy.T_ITEM_Piglet_Trophy",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Trophy-Description\", \"The mounted remains for a creature preserved forever.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Piglet_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 500,
             "MaxStack": 5
@@ -26666,14 +26740,16 @@
             "Name": "Item_Eden_NPC_Norex",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-DisplayName\", \"Norex Liason \\'Agent\\'\")",
             "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_NPC_Norex.T_Icon_Map_NPC_Norex",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-Description\", \"A Norex representative who deals in the trading of Biomass. Sells creature parts.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-Description\", \"A Norex representative who deals in the trading of Biomass. Buys creature parts.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Norex-FlavorText\", \"Why was it programmed with attitude.\")",
             "Weight": 20000
         },
         {
             "Name": "Item_Animal_Bed_Nesting",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Bed_Nesting-DisplayName\", \"Animal Nesting Bed\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Nesting_Bed.T_ITEM_Nesting_Bed",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Bed_Nesting-Description\", \"Can be used by animals to speed up the gestation process.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Bed_Nesting-FlavorText\", \"Nothing beats a soft fur bed.\")",
             "Weight": 1500
         },
         {
@@ -26688,7 +26764,7 @@
             "Name": "Item_Eden_NPC_Farmer",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Farmer-DisplayName\", \"Cultivation Specialist Henrickson\")",
             "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/T_Icon_Map_NPC_Farmer.T_Icon_Map_NPC_Farmer",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Farmer-Description\", \"UDA assigned Specialist who deals in all manner of Plants gowable on Icarus. Will buy Crops.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Eden_NPC_Farmer-Description\", \"UDA assigned Specialist who deals in all manner of Plants growable on Icarus. Will buy Crops.\")",
             "Weight": 20000
         },
         {
@@ -26726,9 +26802,66 @@
             "Name": "Item_Prop_Dropship",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Prop_Dropship-DisplayName\", \"UDA Dropship\")",
             "Icon": "/Game/Assets/2DArt/UI/Icons/MapIcons/Icon_Map_Dropship.Icon_Map_Dropship",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Prop_Dropship-Description\", \"A certified UDA dropshop.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Prop_Dropship-FlavorText\", \"How does this thing stay in tact?\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Prop_Dropship-Description\", \"A certified UDA dropship.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Prop_Dropship-FlavorText\", \"How does this thing stay intact?\")",
             "Weight": 1000
+        },
+        {
+            "Name": "Item_Workshop_Piglet_Male",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Piglet_Male-DisplayName\", \"Cryogenically Frozen Piglet (Male)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Piglet_Male.T_ITEM_Workshop_Piglet_Male",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Piglet_Male-Description\", \"A Piglet preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Piglet_Male-FlavorText\", \"Oink\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Workshop_Piglet_Female",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Piglet_Female-DisplayName\", \"Cryogenically Frozen Piglet (Female)\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Piglet_Female.T_ITEM_Workshop_Piglet_Female",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Piglet_Female-Description\", \"A Piglet preserved in a cryogenic stasis that can be deployed and defrosted on planet.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Piglet_Female-FlavorText\", \"Oink\")",
+            "Weight": 1000
+        },
+        {
+            "Name": "Item_Fertility_Serum_Pig",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Pig-DisplayName\", \"Pig Fertility Serum\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Pig.T_ITEM_Serum_Pig",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Pig-Description\", \"Primes Male Pigs for mating. Once primed will seek out and fertilize nearby Female Pig.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Pig-FlavorText\", \"Husbandy has come to Icarus\")",
+            "Weight": 50,
+            "MaxStack": 10
+        },
+        {
+            "Name": "Item_Animal_Gruel_Fruit",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Fruit-DisplayName\", \"Animal Fruit Gruel\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Animal_Gruel_Fruit.T_ITEM_Animal_Gruel_Fruit",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Fruit-Description\", \"Will satisfy an animals hunger, but not their taste buds. \")",
+            "Weight": 50,
+            "MaxStack": 25
+        },
+        {
+            "Name": "Item_Animal_Gruel_Vegetable",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Vegetable-DisplayName\", \"Animal Vegetable Gruel\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Animal_Gruel_Vege.T_ITEM_Animal_Gruel_Vege",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Vegetable-Description\", \"Will satisfy an animals hunger, but not their taste buds. \")",
+            "Weight": 50,
+            "MaxStack": 25
+        },
+        {
+            "Name": "Item_Animal_Gruel_Meat",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Meat-DisplayName\", \"Animal Meat Gruel\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Animal_Gruel_Meat.T_ITEM_Animal_Gruel_Meat",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Meat-Description\", \"Will satisfy an animals hunger, but not their taste buds. \")",
+            "Weight": 50,
+            "MaxStack": 25
+        },
+        {
+            "Name": "Item_Animal_Gruel_Fish",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Fish-DisplayName\", \"Animal Fish Gruel\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Animal_Gruel_Fish.T_ITEM_Animal_Gruel_Fish",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Fish-Description\", \"Will satisfy an animals hunger, but not their taste buds. \")",
+            "Weight": 50,
+            "MaxStack": 25
         }
     ]
 }
