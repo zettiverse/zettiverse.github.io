@@ -16751,7 +16751,7 @@
         {
             "Name": "Rooster_Head",
             "ItemStaticData": {
-                "RowName": "Bull_Head"
+                "RowName": "Rooster_Head"
             },
             "Metadata": {
                 "RequiredFeatureLevel": {
@@ -16762,7 +16762,7 @@
         {
             "Name": "Rooster_Trophy",
             "ItemStaticData": {
-                "RowName": "Bull_Head"
+                "RowName": "Rooster_Trophy"
             },
             "Metadata": {
                 "RequiredFeatureLevel": {
@@ -16784,7 +16784,7 @@
         {
             "Name": "Ram_Trophy",
             "ItemStaticData": {
-                "RowName": "Bull_Head"
+                "RowName": "Ram_Trophy"
             },
             "Metadata": {
                 "RequiredFeatureLevel": {
@@ -20724,6 +20724,70 @@
             "Name": "Animal_Gruel_Fish",
             "ItemStaticData": {
                 "RowName": "Animal_Gruel_Fish"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Bee_Stack",
+            "ItemStaticData": {
+                "RowName": "Worker_Bee"
+            },
+            "ItemDynamicData": [
+                {
+                    "PropertyType": "ItemableStack",
+                    "Value": 5
+                }
+            ]
+        },
+        {
+            "Name": "Queen_Bee_Stack",
+            "ItemStaticData": {
+                "RowName": "Queen_Bee"
+            },
+            "ItemDynamicData": [
+                {
+                    "PropertyType": "ItemableStack",
+                    "Value": 2
+                }
+            ]
+        },
+        {
+            "Name": "Honeycomb_Stack",
+            "ItemStaticData": {
+                "RowName": "Honeycomb"
+            },
+            "ItemDynamicData": [
+                {
+                    "PropertyType": "ItemableStack",
+                    "Value": 25
+                }
+            ]
+        },
+        {
+            "Name": "Workshop_Beehive_Starter_Kit",
+            "ItemStaticData": {
+                "RowName": "Workshop_Beehive_Starter_Kit"
+            }
+        },
+        {
+            "Name": "Animal_Gruel_Rotten",
+            "ItemStaticData": {
+                "RowName": "Animal_Gruel_Rotten"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Animal_Silage",
+            "ItemStaticData": {
+                "RowName": "Animal_Silage"
             },
             "Metadata": {
                 "RequiredFeatureLevel": {

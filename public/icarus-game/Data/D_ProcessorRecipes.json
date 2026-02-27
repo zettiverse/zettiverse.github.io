@@ -839,46 +839,6 @@
             }
         },
         {
-            "Name": "Thatch_Frame",
-            "bForceDisableRecipe": true,
-            "RecipeSets": [
-                {
-                    "RowName": "Character",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Fiber",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 40
-                },
-                {
-                    "Element": {
-                        "RowName": "Stick",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 6
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Thatch_Frame",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "Default"
-            }
-        },
-        {
             "Name": "Thatch_Beam",
             "Requirement": {
                 "RowName": "Thatch_Basic"
@@ -1616,46 +1576,6 @@
                 {
                     "Element": {
                         "RowName": "Building_RepairTool",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "Default"
-            }
-        },
-        {
-            "Name": "Wood_Frame",
-            "bForceDisableRecipe": true,
-            "RecipeSets": [
-                {
-                    "RowName": "Character",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Fiber",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 24
-                },
-                {
-                    "Element": {
-                        "RowName": "Wood",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 40
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Wood_Frame",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -9414,55 +9334,6 @@
             }
         },
         {
-            "Name": "Wood_Frame_CarpentryBench",
-            "bForceDisableRecipe": true,
-            "RecipeSets": [
-                {
-                    "RowName": "Carpentry_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Carpentry_Bench_T4",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "ResourceCostMultipliers": [
-                {
-                    "Value": "BaseWoodBuildingCraftingCost_+%"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Fiber",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 9
-                },
-                {
-                    "Element": {
-                        "RowName": "Wood",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 30
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Wood_Frame",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "CarpentryBench"
-            }
-        },
-        {
             "Name": "Wood_Floor_CarpentryBench",
             "Requirement": {
                 "RowName": "Wood_Basic"
@@ -9655,55 +9526,6 @@
                 {
                     "Element": {
                         "RowName": "Wood_Ramp",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "CarpentryBench"
-            }
-        },
-        {
-            "Name": "Interior_Wood_Frame",
-            "bForceDisableRecipe": true,
-            "RecipeSets": [
-                {
-                    "RowName": "Carpentry_Bench",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Carpentry_Bench_T4",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "ResourceCostMultipliers": [
-                {
-                    "Value": "BaseWoodBuildingCraftingCost_+%"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Wood_Refined",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 20
-                },
-                {
-                    "Element": {
-                        "RowName": "Copper_Nail",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 12
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Wood_Frame_Refined",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -81322,6 +81144,50 @@
             }
         },
         {
+            "Name": "Bull_Trophy",
+            "RecipeSets": [
+                {
+                    "RowName": "Trophy_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 30
+                },
+                {
+                    "Element": {
+                        "RowName": "Bull_Head",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Bull_Trophy",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Reinforced_Wood_Beam",
             "Requirement": {
                 "RowName": "Reinforced_Wood_Basic"
@@ -95669,6 +95535,50 @@
             }
         },
         {
+            "Name": "Rooster_Trophy",
+            "RecipeSets": [
+                {
+                    "RowName": "Trophy_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 30
+                },
+                {
+                    "Element": {
+                        "RowName": "Rooster_Head",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Rooster_Trophy",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Homestead_Candle",
             "Requirement": {
                 "RowName": "Homestead_Decorations"
@@ -98801,7 +98711,7 @@
             "Outputs": [
                 {
                     "Element": {
-                        "RowName": "Rain_Reservoir_T3",
+                        "RowName": "Homestead_Well",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -99292,7 +99202,7 @@
         },
         {
             "Name": "Animal_Fruit_Gruel",
-            "RequiredMillijoules": 50000,
+            "RequiredMillijoules": 10000,
             "RecipeSets": [
                 {
                     "RowName": "Food_Trough_T4",
@@ -99326,7 +99236,7 @@
         },
         {
             "Name": "Animal_Vegetable_Gruel",
-            "RequiredMillijoules": 50000,
+            "RequiredMillijoules": 10000,
             "RecipeSets": [
                 {
                     "RowName": "Food_Trough_T4",
@@ -99360,7 +99270,7 @@
         },
         {
             "Name": "Animal_Meat_Gruel",
-            "RequiredMillijoules": 50000,
+            "RequiredMillijoules": 10000,
             "RecipeSets": [
                 {
                     "RowName": "Food_Trough_T4",
@@ -99394,7 +99304,7 @@
         },
         {
             "Name": "Animal_Fish_Gruel",
-            "RequiredMillijoules": 50000,
+            "RequiredMillijoules": 10000,
             "RecipeSets": [
                 {
                     "RowName": "Food_Trough_T4",
@@ -99415,6 +99325,313 @@
                 {
                     "Element": {
                         "RowName": "Animal_Gruel_Fish",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace",
+            "Requirement": {
+                "RowName": "Homestead_Decorations"
+            },
+            "SessionRequirement": {
+                "DataTableName": "D_DLCPackageData",
+                "RowName": "Homestead"
+            },
+            "RequiredMillijoules": 4000,
+            "RecipeSets": [
+                {
+                    "RowName": "Rustic_Decorations_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Clay_Brick",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 100
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 30
+                },
+                {
+                    "Element": {
+                        "RowName": "Tree_Sap",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Homestead_Fireplace",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CraftingBench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace_Ext",
+            "Requirement": {
+                "RowName": "Homestead_Decorations"
+            },
+            "SessionRequirement": {
+                "DataTableName": "D_DLCPackageData",
+                "RowName": "Homestead"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Clay_Brick",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 50
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20
+                },
+                {
+                    "Element": {
+                        "RowName": "Tree_Sap",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Homestead_Fireplace_Ext",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CraftingBench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Homestead_Fireplace_Cap",
+            "Requirement": {
+                "RowName": "Homestead_Decorations"
+            },
+            "SessionRequirement": {
+                "DataTableName": "D_DLCPackageData",
+                "RowName": "Homestead"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Masonry_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Masonry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Clay_Brick",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 30
+                },
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20
+                },
+                {
+                    "Element": {
+                        "RowName": "Tree_Sap",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10
+                },
+                {
+                    "Element": {
+                        "RowName": "Refined_Metal",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Homestead_Fireplace_Cap",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CraftingBench"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Rotten_Gruel",
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Food_Trough_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [],
+            "QueryInputs": [
+                {
+                    "Query": {
+                        "RowName": "Any_Spoiled_Item",
+                        "DataTableName": "D_CraftingTags"
+                    },
+                    "Count": 3
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Animal_Gruel_Rotten",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
+            "Name": "Animal_Silage_Grain",
+            "Requirement": {
+                "RowName": "AnimalFeedPack"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Food_Trough_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [],
+            "QueryInputs": [
+                {
+                    "Query": {
+                        "RowName": "Any_Grain",
+                        "DataTableName": "D_CraftingTags"
+                    },
+                    "Count": 10
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Animal_Silage",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
+            "Name": "Animal_Silage_Fiber",
+            "Requirement": {
+                "RowName": "AnimalFeedPack"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Food_Trough_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Fiber",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 20
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Animal_Silage",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,

@@ -90437,10 +90437,10 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
-                        "TagName": "FieldGuide.WorkshopOnly"
+                        "TagName": "Item.Plant.Vegetable"
                     }
                 ]
             },
@@ -90453,10 +90453,10 @@
                         "TagName": "Item.Consumable.Food.Raw"
                     },
                     {
-                        "TagName": "Item.Plant"
+                        "TagName": "FieldGuide.WorkshopOnly"
                     },
                     {
-                        "TagName": "FieldGuide.WorkshopOnly"
+                        "TagName": "Item.Plant.Vegetable"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -90954,14 +90954,14 @@
             "Manual_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Consumable.Food.Cooked"
+                        "TagName": "Item.Consumable.Food.Cooked.Vege"
                     }
                 ]
             },
             "Generated_Tags": {
                 "GameplayTags": [
                     {
-                        "TagName": "Item.Consumable.Food.Cooked"
+                        "TagName": "Item.Consumable.Food.Cooked.Vege"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -167102,6 +167102,9 @@
                     },
                     {
                         "TagName": "Item.Decoration.Homestead"
+                    },
+                    {
+                        "TagName": "Item.Tool.PitchFork"
                     }
                 ]
             },
@@ -167112,6 +167115,9 @@
                     },
                     {
                         "TagName": "Item.Decoration.Homestead"
+                    },
+                    {
+                        "TagName": "Item.Tool.PitchFork"
                     },
                     {
                         "TagName": "Traits.Meshable"
@@ -196153,6 +196159,201 @@
             },
             "Decayable": {
                 "RowName": "Decay_Food_OneDay"
+            },
+            "Audio": {
+                "RowName": "Default_Food"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.AnimalFeed"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.AnimalFeed"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Consumable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Workshop_Beehive_Starter_Kit",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Crafting"
+            },
+            "Itemable": {
+                "RowName": "Item_Workshop_Beehive_Starter_Kit"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Consumable": {
+                "RowName": "Workshop_Beehive_Starter_Kit"
+            },
+            "Usable": {
+                "RowName": "Consume"
+            },
+            "Decayable": {
+                "RowName": "Decay_General"
+            },
+            "Audio": {
+                "RowName": "Default"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    },
+                    {
+                        "TagName": "Item.Meta.Package"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.Meta.Consumable"
+                    },
+                    {
+                        "TagName": "Item.Meta.Package"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Consumable"
+                    },
+                    {
+                        "TagName": "Traits.Usable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Animal_Gruel_Rotten",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Food"
+            },
+            "Itemable": {
+                "RowName": "Item_Animal_Gruel_Rotten"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Animal_Feed"
+            },
+            "Consumable": {
+                "RowName": "Food_Animal_Gruel_Rotten"
+            },
+            "Decayable": {
+                "RowName": "Decay_Food_OneDay"
+            },
+            "Audio": {
+                "RowName": "Default_Food"
+            },
+            "Manual_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.AnimalFeed"
+                    }
+                ]
+            },
+            "Generated_Tags": {
+                "GameplayTags": [
+                    {
+                        "TagName": "Item.AnimalFeed"
+                    },
+                    {
+                        "TagName": "Traits.Meshable"
+                    },
+                    {
+                        "TagName": "Traits.Itemable"
+                    },
+                    {
+                        "TagName": "Traits.Interactable"
+                    },
+                    {
+                        "TagName": "Traits.Highlightable"
+                    },
+                    {
+                        "TagName": "Traits.Actionable"
+                    },
+                    {
+                        "TagName": "Traits.Consumable"
+                    }
+                ],
+                "ParentTags": []
+            }
+        },
+        {
+            "Name": "Animal_Silage",
+            "Meshable": {
+                "RowName": "Mesh_Generic_Food"
+            },
+            "Itemable": {
+                "RowName": "Item_Animal_Silage"
+            },
+            "Interactable": {
+                "RowName": "Item"
+            },
+            "Focusable": {
+                "RowName": "Focusable_1H"
+            },
+            "Highlightable": {
+                "RowName": "Generic"
+            },
+            "Actionable": {
+                "RowName": "Animal_Feed"
+            },
+            "Consumable": {
+                "RowName": "Food_Animal_Silage"
+            },
+            "Decayable": {
+                "RowName": "Decay_NoDecay"
             },
             "Audio": {
                 "RowName": "Default_Food"
