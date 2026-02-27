@@ -111,15 +111,6 @@
             "MaxStack": 20
         },
         {
-            "Name": "Item_Wood_Frame",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame-DisplayName\", \"Wood Frame\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Frame_0.ITEM_Wood_Frame_0",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame-Description\", \"Frames distribute weight for stronger building and longer spans.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame-FlavorText\", \"Able to be repaired with a repair hammer.\")",
-            "Weight": 500,
-            "MaxStack": 20
-        },
-        {
             "Name": "Item_Stone_Axe",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Stone_Axe-DisplayName\", \"Stone Axe\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/ITEM_Stone_Axe.ITEM_Stone_Axe",
@@ -1477,15 +1468,6 @@
             "MaxStack": 20
         },
         {
-            "Name": "Item_Wood_Frame_Refined",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame_Refined-DisplayName\", \"Interior Wood Frame\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Frame_Refined_0.ITEM_Wood_Frame_Refined_0",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame_Refined-Description\", \"A wooden internal foundation structure.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame_Refined-FlavorText\", \"Less durable than basic wooden construction elements, refined materials will make your lumber go further, but require protection from the elements.\")",
-            "Weight": 500,
-            "MaxStack": 20
-        },
-        {
             "Name": "Item_Wood_Wall_Refined",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Wall_Refined-DisplayName\", \"Interior Wood Wall\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Wall_Refined_0.ITEM_Wood_Wall_Refined_0",
@@ -2397,38 +2379,6 @@
             "MaxStack": 20
         },
         {
-            "Name": "Item_Wood_Frame_Pillar",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame_Pillar-DisplayName\", \"Wood Frame Pillar\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Frame_1.ITEM_Wood_Frame_1",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame_Pillar-Description\", \"Provides foundations, takes up less space\")",
-            "Weight": 500,
-            "MaxStack": 20
-        },
-        {
-            "Name": "Item_Wood_Frame_Angle",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame_Angle-DisplayName\", \"Wood Frame Angled\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Frame_2.ITEM_Wood_Frame_2",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_Frame_Angle-Description\", \"A braced foundation to spread weight and extend spans.\")",
-            "Weight": 500,
-            "MaxStack": 20
-        },
-        {
-            "Name": "Item_Interior_Wood_Frame_Pillar",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Interior_Wood_Frame_Pillar-DisplayName\", \"Interior Wood Frame Pillar\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Frame_Refined_1.ITEM_Wood_Frame_Refined_1",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Interior_Wood_Frame_Pillar-Description\", \"Provides internal foundational support, takes up less space\")",
-            "Weight": 500,
-            "MaxStack": 20
-        },
-        {
-            "Name": "Item_Interior_Wood_Frame_Angle",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Interior_Wood_Frame_Angle-DisplayName\", \"Interior Wood Frame Angled\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Frame_Refined_2.ITEM_Wood_Frame_Refined_2",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Interior_Wood_Frame_Angle-Description\", \"A braced foundation to spread weight and extend spans internally.\")",
-            "Weight": 500,
-            "MaxStack": 20
-        },
-        {
             "Name": "Item_Interior_Wood_Stairs",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Interior_Wood_Stairs-DisplayName\", \"Interior Wood Stairs\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Wood_Ramp_Refined_1.ITEM_Wood_Ramp_Refined_1",
@@ -2617,14 +2567,6 @@
             "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_BodyArmour.Icon_BodyArmour",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_PRV_Feet-Description\", \"Preview Feet Armour to test on Character\")",
             "Weight": 500
-        },
-        {
-            "Name": "Item_Thatch_Frame",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Thatch_Frame-DisplayName\", \"Thatch Frame\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Thatch_Frame_0.ITEM_Thatch_Frame_0",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Thatch_Frame-Description\", \"Light, easily crafted foundations for construction.\")",
-            "Weight": 100,
-            "MaxStack": 20
         },
         {
             "Name": "Item_Thatch_Floor",
@@ -2860,22 +2802,6 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Cement_Mixer-Description\", \"Craft concrete construction elements.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Cement_Mixer-FlavorText\", \"Concrete is composed of two essential elements: aggregate and a cement binder, with ratios depending on the specific design mix. Specialized concrete engineers are rare on Icarus, though.\")",
             "Weight": 2000
-        },
-        {
-            "Name": "Item_Thatch_Frame_Pillar",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Thatch_Frame_Pillar-DisplayName\", \"Thatch Frame Pillar\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Thatch_Frame_1.ITEM_Thatch_Frame_1",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Thatch_Frame_Pillar-Description\", \"Provides light foundations, takes up less space\")",
-            "Weight": 100,
-            "MaxStack": 20
-        },
-        {
-            "Name": "Item_Thatch_Frame_Angled",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Thatch_Frame_Angled-DisplayName\", \"Thatch Frame Angled\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/ITEM_Thatch_Frame_2.ITEM_Thatch_Frame_2",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Thatch_Frame_Angled-Description\", \"A light, braced foundation to spread weight and extend spans.\")",
-            "Weight": 100,
-            "MaxStack": 20
         },
         {
             "Name": "Item_Thatch_TrapDoor",
@@ -17386,15 +17312,6 @@
             "Weight": 10000
         },
         {
-            "Name": "Item_Wood_CornerStair_Refined",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_CornerStair_Refined-DisplayName\", \"Interior Wood Corner Stairs\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Wood_CornerStair_Refined_0.T_ITEM_Wood_CornerStair_Refined_0",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_CornerStair_Refined-Description\", \"A wooden corner stair, best used internally.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Wood_CornerStair_Refined-FlavorText\", \"Less durable than basic wooden construction elements, refined materials will make your lumber go further, but require protection from the elements.\")",
-            "Weight": 500,
-            "MaxStack": 20
-        },
-        {
             "Name": "Item_Workshop_Dog_D1",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Dog_D1-DisplayName\", \"Cryogenically Frozen Tan Laika\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Workshop_Dog_D1.T_ITEM_Workshop_Dog_D1",
@@ -17570,14 +17487,6 @@
                     "RowName": "NewFrontiers"
                 }
             }
-        },
-        {
-            "Name": "Item_Stone_CornerStair",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Stone_CornerStair-DisplayName\", \"Stone Corner Stairs\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Buildables/T_ITEM_Stone_CornerStair_0.T_ITEM_Stone_CornerStair_0",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Stone_CornerStair-Description\", \"A stone corner stair structure.\")",
-            "Weight": 500,
-            "MaxStack": 20
         },
         {
             "Name": "Item_Stone_Brick_Floor",
@@ -20170,6 +20079,7 @@
         {
             "Name": "Item_Ram_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Ram_Trophy-DisplayName\", \"Ram Trophy\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Ram_Trophy.T_ITEM_Ram_Trophy",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Ram_Trophy-Description\", \"A mounted Ram.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Ram_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 2000
@@ -25541,7 +25451,7 @@
         {
             "Name": "Item_Carcass_GeothermalSpider",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_GeothermalSpider-DisplayName\", \"Geothermal Spider Carcass\")",
-            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_Spider.T_ITEM_AnimalCarcass_Spider",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalCarcass_GeothermalSpider.T_ITEM_AnimalCarcass_GeothermalSpider",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_GeothermalSpider-Description\", \"The remains of a furry legged menace. \")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Carcass_GeothermalSpider-FlavorText\", \"So many legs.\")",
             "Weight": 8000
@@ -25960,13 +25870,6 @@
             "Weight": 4000
         },
         {
-            "Name": "Item_Flesh_Sac_Trophy",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Flesh_Sac_Trophy-DisplayName\", \"Gaseous Floater Trophy\")",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Flesh_Sac_Trophy-Description\", \"The mounted remains of a Gaseous Floater.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Flesh_Sac_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
-            "Weight": 3500
-        },
-        {
             "Name": "Item_Sandscuttle_Trophy",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandscuttle_Trophy-DisplayName\", \"Scuttler Trophy\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Sandscuttle_Trophy.T_ITEM_Sandscuttle_Trophy",
@@ -26009,6 +25912,7 @@
         {
             "Name": "Item_Geothermal_Spider_Head",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Geothermal_Spider_Head-DisplayName\", \"Geothermal Spider Vestige\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_AnimalHead_GeothermalSpider.T_ITEM_AnimalHead_GeothermalSpider",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Geothermal_Spider_Head-Description\", \"A preserved memory of a many legged creature.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Geothermal_Spider_Head-FlavorText\", \"Who knew taxidermy would be so popular on Icarus?\")",
             "Weight": 1000,
@@ -26020,13 +25924,6 @@
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Geothermal_Bat_Trophy.T_ITEM_Geothermal_Bat_Trophy",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Geothermal_Bat_Trophy-Description\", \"A Trophy of a mutated bat like creature.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Geothermal_Bat_Trophy-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
-            "Weight": 1000
-        },
-        {
-            "Name": "Item_Flesh_Sac_Head",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Flesh_Sac_Head-DisplayName\", \"Gaseous Floater Vestige\")",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Flesh_Sac_Head-Description\", \"The remains of a floating gas creature.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Flesh_Sac_Head-FlavorText\", \"Evidence of skill, patience and accuracy.\")",
             "Weight": 1000
         },
         {
@@ -26412,7 +26309,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-DisplayName\", \"Rooster Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Rooster.T_ITEM_Serum_Rooster",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-Description\", \"Primes Roosters for mating. Once primed will seek out and fertilize nearby chickens.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-FlavorText\", \"Husbandy has come to Icarus\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Chicken-FlavorText\", \"Husbandry has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26421,7 +26318,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-DisplayName\", \"Ram Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Ram.T_ITEM_Serum_Ram",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-Description\", \"Primes Rams for mating. Once primed will seek out and fertilize nearby sheep.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-FlavorText\", \"Husbandy has come to Icarus\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Sheep-FlavorText\", \"Husbandry has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26430,7 +26327,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-DisplayName\", \"Bull Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Bull.T_ITEM_Serum_Bull",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-Description\", \"Primes Bulls for mating. Once primed will seek out and fertilize nearby Cows.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-FlavorText\", \"Husbandy has come to Icarus\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Cow-FlavorText\", \"Husbandry has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26439,7 +26336,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-DisplayName\", \"Moa Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Moa.T_ITEM_Serum_Moa",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-Description\", \"Primes Male Moa\\'s for mating. Once primed will seek out and fertilize nearby Female Moa\\'s.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-FlavorText\", \"Husbandy has come to Icarus\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Moa-FlavorText\", \"Husbandry has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26448,7 +26345,7 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-DisplayName\", \"Buffalo Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Buffalo.T_ITEM_Serum_Buffalo",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-Description\", \"Primes Male Buffalo for mating. Once primed will seek out and fertilize nearby Female Buffalo.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-FlavorText\", \"Husbandy has come to Icarus\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Buffalo-FlavorText\", \"Husbandry has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
         },
@@ -26547,46 +26444,59 @@
         },
         {
             "Name": "Item_Sandwyrm_Egg",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Egg-DisplayName\", \"Sandwyrm Egg\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Egg-DisplayName\", \"Sandwyrm Queen Egg\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Resources/T_ITEM_Sandwyrm_Egg.T_ITEM_Sandwyrm_Egg",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Egg-Description\", \"A calcified gestation pod taken from a (likely very angry) Sandwyrm Queen.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Egg-FlavorText\", \"I\\'d run away fast with that, if I were you.\")",
             "Weight": 1000,
             "MaxStack": 25
         },
         {
             "Name": "Item_Sandwyrm_Lantern",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lantern-DisplayName\", \"Sandwyrm Lantern\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lantern-DisplayName\", \"Sandwyrm Queen Lantern\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Sandwyrm_Latern.T_ITEM_Sandwyrm_Latern",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lantern-Description\", \"Uses bioluminescent bile for low-heat lighting. A reliable fallback for when your battery inevitably fails in the dunes.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lantern-FlavorText\", \"By the light!\")",
             "Weight": 250
         },
         {
             "Name": "Item_Sandwyrm_Backpack",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Backpack-DisplayName\", \"Sandwyrm Backpack\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Backpack-DisplayName\", \"Sandwyrm Queen Backpack\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/T_ITEM_Sandwyrm_Backpack.T_ITEM_Sandwyrm_Backpack",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Backpack-Description\", \"Heavy-duty pack crafted from cured hide. Highly resistant to heat, abrasion, and the general wear of desert survival.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Backpack-FlavorText\", \"Still smells like the desert, but it\\'s tougher than you are.\")",
             "Weight": 250
         },
         {
             "Name": "Item_Sandwyrm_Lure",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lure-DisplayName\", \"Sandwyrm Lure\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lure-DisplayName\", \"Sandwyrm Queen Lure\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Fishing/T_ITEM_Sandwyrm_Lure.T_ITEM_Sandwyrm_Lure",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lure-Description\", \"A lure created from the spoils of a fight against a Queen.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Lure-FlavorText\", \"Here fishy fishy.\")",
             "Weight": 250
         },
         {
             "Name": "Item_Sandwyrm_Target",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Target-DisplayName\", \"Sandwyrm Target\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Target-DisplayName\", \"Sandwyrm Queen Target\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Sandwyrm_Target.T_ITEM_Sandwyrm_Target",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Target-Description\", \"A training dummy made out of Sandwyrm plating. \")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Target-FlavorText\", \"A grim display.\")",
             "Weight": 250
         },
         {
             "Name": "Item_Sandwyrm_Throne",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Throne-DisplayName\", \"Sandwrym Throne\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Throne-DisplayName\", \"Sandwrym Queen Throne\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/T_ITEM_Sandwyrm_Chair.T_ITEM_Sandwyrm_Chair",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Throne-Description\", \"A seat fashioned from mandible plates and vertebrae. A grim trophy for contractors who enjoy a bit of dark comfort.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Throne-FlavorText\", \"Surprisingly good lumbar support for a predator\\'s jaw.\")",
             "Weight": 500
         },
         {
             "Name": "Item_Sandwyrm_Bow",
-            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Bow-DisplayName\", \"Sandwyrm Bow\")",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Bow-DisplayName\", \"Sandwyrm Queen Bow\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Weapons/Bows/T_ITEM_Sandwyrm_Bow.T_ITEM_Sandwyrm_Bow",
-            "FlavorText": "INVTEXT(\".\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Bow-Description\", \"A high-tension recurve bow made from organic composites.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Sandwyrm_Bow-FlavorText\", \"Right on target.\")",
             "Weight": 1000
         },
         {
@@ -26645,7 +26555,7 @@
         {
             "Name": "Item_Deep_Mining_Drill_Oil",
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Deep_Mining_Drill_Oil-DisplayName\", \"Oil Deep-Mining Drill\")",
-            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Deep_Mining_Drill_Oil-Description\", \"An oil-powered drill capable of mining ore trapped deep under the surface.Has even more storage space.\")",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Deep_Mining_Drill_Oil-Description\", \"An oil-powered drill capable of mining ore trapped deep under the surface. Has even more storage space.\")",
             "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Deep_Mining_Drill_Oil-FlavorText\", \"Drill baby Drill\")",
             "Weight": 10000
         },
@@ -26827,9 +26737,15 @@
             "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Pig-DisplayName\", \"Pig Fertility Serum\")",
             "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Carcasses/T_ITEM_Serum_Pig.T_ITEM_Serum_Pig",
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Pig-Description\", \"Primes Male Pigs for mating. Once primed will seek out and fertilize nearby Female Pig.\")",
-            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Pig-FlavorText\", \"Husbandy has come to Icarus\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Fertility_Serum_Pig-FlavorText\", \"Husbandry has come to Icarus\")",
             "Weight": 50,
             "MaxStack": 10
+        },
+        {
+            "Name": "Item_Saddle_SpeederBike",
+            "DisplayName": "INVTEXT(\"[DNT] Default Speeder Bike Saddle\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/UseableItems/ICON_Cart_Wood.ICON_Cart_Wood",
+            "bAllowZeroWeight": true
         },
         {
             "Name": "Item_Animal_Gruel_Fruit",
@@ -26862,6 +26778,31 @@
             "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Fish-Description\", \"Will satisfy an animals hunger, but not their taste buds. \")",
             "Weight": 50,
             "MaxStack": 25
+        },
+        {
+            "Name": "Item_Workshop_Beehive_Starter_Kit",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Beehive_Starter_Kit-DisplayName\", \"Beehive Starter Kit\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/ResourcePack/T_ITEM_Beehive_Starter_Kit.T_ITEM_Beehive_Starter_Kit",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Beehive_Starter_Kit-Description\", \"A basic kit which allows the starting up of a beehive, including Queen Bees, Bees and Honeycomb. \")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Workshop_Beehive_Starter_Kit-FlavorText\", \"Buzzz\")",
+            "Weight": 250
+        },
+        {
+            "Name": "Item_Animal_Gruel_Rotten",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Rotten-DisplayName\", \"Stale Animal Gruel\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Rotten_Gruel.T_ITEM_Rotten_Gruel",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Rotten-Description\", \"The bare minimum in terms of nutrition.\")",
+            "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Gruel_Rotten-FlavorText\", \"Technically edible...\")",
+            "Weight": 50,
+            "MaxStack": 25
+        },
+        {
+            "Name": "Item_Animal_Silage",
+            "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Silage-DisplayName\", \"Silage\")",
+            "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Consumeables/T_ITEM_Silage.T_ITEM_Silage",
+            "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Animal_Silage-Description\", \"Long-life, fermented animal feed. Simple but Convenient.\")",
+            "Weight": 50,
+            "MaxStack": 50
         }
     ]
 }
