@@ -173,6 +173,8 @@ export default {
         onQuantityChange(item) {
             if (item.quantity < 1) {
                 this.$nextTick(() => {
+                    item.quantity = 0;
+                    this.triggerCalc();
                     //this.removeItem(item);
                     //this.triggerCalc();
                 });
