@@ -77,6 +77,8 @@ export const itemLabelMap = Object.freeze({
     Bulk_Pistol_Round: 'Pistol Round (Bulk, Talent)',
     Shotgun_Shell_Buckshot: 'Shotgun Buckshot Shell',
     Bulk_Shotgun_Shell_Buckshot: 'Shotgun Buckshot Shell (Bulk, Talent)',
+    Uranium_Inert: 'Inert Uranium Ingot',
+    Uranium_Raw: 'Raw Uranium',
 });
 
 const cleanItemDefaultLabel = (itemId) => {
@@ -227,6 +229,20 @@ export function processRecipeData(rows = [], { itemTemplateData = {}, itemStatic
     });
 
     let recipeData = {};
+
+    recipeData['Uranium_Inert'] = {
+        id: 'Uranium_Inert',
+        label: 'Inert Uranium Ingot',
+        iconPath: 'Resources/T_ITEM_Uranium_Inert',
+
+        inputs: [{
+            id: 'Uranium_Raw',
+            quantity: 5
+        }],
+        sources: ['Uranium_Converter'],
+        preferredSource: 'Uranium_Converter',
+        outputQuantity: 10,
+    };
 
     rows.forEach((recipe) => {
         //const maxFilePathLength = 100;
