@@ -81,7 +81,8 @@
                             fallback-src="/icarus-game/Images/question-mark.png"
                             :preview-disabled="false"
                         />
-                        <div class="label">{{ item.quantity }} {{ recipeData[item.id]?.label ?? itemLabelMap[item.id] ?? item.id }}</div>
+                        <div style="cursor: pointer" class="label" @click="nestedItem(item, $event)">{{ item.quantity }} {{ recipeData[item.id]?.label ?? itemLabelMap[item.id] ?? item.id }} {{ item.parent ? `(${recipeData[item.parent]?.label ?? ''})` : (recipeData[item.parent]?.label ?? '') }}
+</div>
                         <component-source-picker :component-id="item.id" @change="triggerCalc()"></component-source-picker>
                     </div>
                 </div>
@@ -196,6 +197,53 @@ export default {
         triggerCalc: debounce(function () {
             this.calculateRequiredItems();
         }, 100),
+        nestedItem(item, event) {
+            // return ;
+            // console.log(item.id);
+            console.log(event);
+            const recipeData = this.recipeData;
+            const itemData = recipeData[item.id];
+            if (!itemData) {
+                return;
+            }
+            const multiplier = (item.quantity ?? 1) / itemData.outputQuantity;
+            
+            function sumInputsForItems(items = [], dataMap = {}) {
+                items.forEach((item) => {
+                    const itemData = recipeData[item.id];
+                    if (!itemData) {
+                        return;
+                    }
+
+                    const multiplier = (item.quantity ?? 1) / itemData.outputQuantity;
+                    // console.log("Inputs: ", itemData.inputs || []);
+                    // console.log(`I am making ${item.quantity} of ${item.id}`);
+                    (itemData.inputs || []).forEach((input) => {
+                        const quantity = dataMap[input.id] ?? 0;
+                        dataMap[input.id] = {
+                            'id': input.id,
+                            'quantity': input.quantity * item.quantity,
+                            'parent': item.id
+                            };
+
+                        const inputItemData = recipeData[input.id];
+                    });
+                });
+                return dataMap;
+            }
+            // console.log(`I am making ${item.quantity} of ${item.id}`);
+            let nestedItems = sumInputsForItems([{ id: item.id, quantity: item.quantity }], {});
+            // console.log(nestedItems);
+            for (const item in nestedItems) {
+                this.requiredComponents.push({
+                    'id': nestedItems[item]['id'],
+                    'quantity': nestedItems[item]['quantity'],
+                    'parent': nestedItems[item]['parent']
+                });
+            }
+            // console.log(this.requiredComponents);
+            
+        },
         calculateRequiredItems() {
             const selectedItems = this.tab.items || [];
             const recipeData = this.recipeData;
