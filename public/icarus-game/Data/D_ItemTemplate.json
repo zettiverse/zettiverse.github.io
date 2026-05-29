@@ -790,6 +790,22 @@
             ]
         },
         {
+            "Name": "Meta_Flashlight",
+            "ItemStaticData": {
+                "RowName": "Meta_Flashlight"
+            },
+            "ItemDynamicData": [
+                {
+                    "PropertyType": "Fillable_StoredUnits",
+                    "Value": 7500
+                },
+                {
+                    "PropertyType": "Fillable_Type",
+                    "Value": 1
+                }
+            ]
+        },
+        {
             "Name": "Fabricator",
             "ItemStaticData": {
                 "RowName": "Fabricator"
@@ -7592,9 +7608,31 @@
             }
         },
         {
+            "Name": "Fish_15_Var2",
+            "ItemStaticData": {
+                "RowName": "Fish_15_Var2"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
             "Name": "Fish_16",
             "ItemStaticData": {
                 "RowName": "Fish_16"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "Fish_16_Var2",
+            "ItemStaticData": {
+                "RowName": "Fish_16_Var2"
             },
             "Metadata": {
                 "RequiredFeatureLevel": {
@@ -7617,28 +7655,6 @@
             "Name": "Fish_17_Var2",
             "ItemStaticData": {
                 "RowName": "Fish_17_Var2"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Galileo"
-                }
-            }
-        },
-        {
-            "Name": "Fish_17_Var3",
-            "ItemStaticData": {
-                "RowName": "Fish_17_Var3"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Galileo"
-                }
-            }
-        },
-        {
-            "Name": "Fish_17_Var4",
-            "ItemStaticData": {
-                "RowName": "Fish_17_Var4"
             },
             "Metadata": {
                 "RequiredFeatureLevel": {
@@ -16688,12 +16704,6 @@
             "Name": "Mission_Radiator",
             "ItemStaticData": {
                 "RowName": "Mission_Radiator"
-            }
-        },
-        {
-            "Name": "FlagPole",
-            "ItemStaticData": {
-                "RowName": "Flagpole"
             }
         },
         {
@@ -26159,7 +26169,7 @@
             ],
             "Metadata": {
                 "RequiredFeatureLevel": {
-                    "RowName": "ComingSoon"
+                    "RowName": "DangerousHorizons"
                 }
             }
         },
@@ -26345,6 +26355,163 @@
             "Name": "Fertility_Serum_Wolf",
             "ItemStaticData": {
                 "RowName": "Fertility_Serum_Wolf"
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Boar",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Boar"
+            }
+        },
+        {
+            "Name": "Eden_AudioLog_1",
+            "ItemStaticData": {
+                "RowName": "Collectable_Audio_Log"
+            },
+            "ItemCustomStats": [
+                {
+                    "Stat": {
+                        "Value": "CollectableNote_Enum"
+                    },
+                    "Value": 82
+                }
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Eden_AudioLog_2",
+            "ItemStaticData": {
+                "RowName": "Collectable_Audio_Log"
+            },
+            "ItemCustomStats": [
+                {
+                    "Stat": {
+                        "Value": "CollectableNote_Enum"
+                    },
+                    "Value": 83
+                }
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Eden_AudioLog_3",
+            "ItemStaticData": {
+                "RowName": "Collectable_Audio_Log"
+            },
+            "ItemCustomStats": [
+                {
+                    "Stat": {
+                        "Value": "CollectableNote_Enum"
+                    },
+                    "Value": 84
+                }
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Eden_AudioLog_4",
+            "ItemStaticData": {
+                "RowName": "Collectable_Audio_Log"
+            },
+            "ItemCustomStats": [
+                {
+                    "Stat": {
+                        "Value": "CollectableNote_Enum"
+                    },
+                    "Value": 85
+                }
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Sawblade",
+            "ItemStaticData": {
+                "RowName": "Chainsaw_Sawblade"
+            }
+        },
+        {
+            "Name": "Fish_20",
+            "ItemStaticData": {
+                "RowName": "Fish_20"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Butcher_Knife",
+            "ItemStaticData": {
+                "RowName": "Butcher_Knife"
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Tundra_Monkey",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Tundra_Monkey"
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Orka",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Orka"
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Storca",
+            "ItemStaticData": {
+                "RowName": "Fertility_Serum_Storca"
+            }
+        },
+        {
+            "Name": "Workshop_Sawblade_Bundle",
+            "ItemStaticData": {
+                "RowName": "Workshop_Sawblade_Bundle"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Sawblade_x20",
+            "ItemStaticData": {
+                "RowName": "Chainsaw_Sawblade"
+            },
+            "ItemDynamicData": [
+                {
+                    "PropertyType": "ItemableStack",
+                    "Value": 20
+                }
+            ],
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Wood_Floor_Refined_Curved",
+            "ItemStaticData": {
+                "RowName": "Wood_Floor_Refined_Curved"
             }
         }
     ]

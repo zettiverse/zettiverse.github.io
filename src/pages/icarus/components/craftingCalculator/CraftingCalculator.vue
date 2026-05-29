@@ -200,7 +200,6 @@ export default {
         nestedItem(item, event) {
             // return ;
             // console.log(item.id);
-            console.log(event);
             const recipeData = this.recipeData;
             const itemData = recipeData[item.id];
             if (!itemData) {

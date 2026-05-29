@@ -21134,6 +21134,142 @@
             }
         },
         {
+            "Name": "Carcass_Boar_Tame",
+            "RecipeSets": [
+                {
+                    "RowName": "Skinning_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "AnimalCarcass_WildBoar_Tame",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Raw_Bacon",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 40,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 8,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Bone",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "White_Meat",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
+            "Name": "Carcass_Boar_Juvenile",
+            "RecipeSets": [
+                {
+                    "RowName": "Skinning_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "AnimalCarcass_Boar_Juvenile",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Raw_Bacon",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 20,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 4,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Bone",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 10,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "White_Meat",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
             "Name": "Carcass_Zebra",
             "RecipeSets": [
                 {
@@ -114894,6 +115030,53 @@
             }
         },
         {
+            "Name": "Fertility_Serum_Chicken_Exotic",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "MetaResource",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
+                },
+                {
+                    "Element": {
+                        "RowName": "Seed",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 10
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Chicken",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Fertility_Serum_Cow",
             "Requirement": {
                 "RowName": "Fertility_Serum"
@@ -114911,6 +115094,55 @@
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 3
+                }
+            ],
+            "QueryInputs": [
+                {
+                    "Query": {
+                        "RowName": "Any_Herb",
+                        "DataTableName": "D_CraftingTags"
+                    },
+                    "Count": 10
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Cow",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Cow_Exotic",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "MetaResource",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
                 }
             ],
             "QueryInputs": [
@@ -114992,6 +115224,55 @@
             }
         },
         {
+            "Name": "Fertility_Serum_Moa_Exotic",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "MetaResource",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
+                }
+            ],
+            "QueryInputs": [
+                {
+                    "Query": {
+                        "RowName": "Any_Fruit",
+                        "DataTableName": "D_CraftingTags"
+                    },
+                    "Count": 10
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Moa",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
             "Name": "Fertility_Serum_Buffalo",
             "Requirement": {
                 "RowName": "Fertility_Serum"
@@ -115009,6 +115290,55 @@
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 3
+                }
+            ],
+            "QueryInputs": [
+                {
+                    "Query": {
+                        "RowName": "Any_Herb",
+                        "DataTableName": "D_CraftingTags"
+                    },
+                    "Count": 10
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Buffalo",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Buffalo_Exotic",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "MetaResource",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
                 }
             ],
             "QueryInputs": [
@@ -115090,249 +115420,6 @@
             }
         },
         {
-            "Name": "Fertility_Serum_Sheep",
-            "Requirement": {
-                "RowName": "Fertility_Serum"
-            },
-            "RecipeSets": [
-                {
-                    "RowName": "Animal_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "Condensed_Enzymes",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 3
-                }
-            ],
-            "QueryInputs": [
-                {
-                    "Query": {
-                        "RowName": "Any_Grain",
-                        "DataTableName": "D_CraftingTags"
-                    },
-                    "Count": 10
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Fertility_Serum_Sheep",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "CookingStation"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Homestead"
-                }
-            }
-        },
-        {
-            "Name": "Fertility_Serum_Chicken_Exotic",
-            "Requirement": {
-                "RowName": "Fertility_Serum"
-            },
-            "RecipeSets": [
-                {
-                    "RowName": "Animal_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "MetaResource",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5
-                },
-                {
-                    "Element": {
-                        "RowName": "Seed",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 10
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Fertility_Serum_Chicken",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "CookingStation"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Homestead"
-                }
-            }
-        },
-        {
-            "Name": "Fertility_Serum_Cow_Exotic",
-            "Requirement": {
-                "RowName": "Fertility_Serum"
-            },
-            "RecipeSets": [
-                {
-                    "RowName": "Animal_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "MetaResource",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5
-                }
-            ],
-            "QueryInputs": [
-                {
-                    "Query": {
-                        "RowName": "Any_Herb",
-                        "DataTableName": "D_CraftingTags"
-                    },
-                    "Count": 10
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Fertility_Serum_Cow",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "CookingStation"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Homestead"
-                }
-            }
-        },
-        {
-            "Name": "Fertility_Serum_Moa_Exotic",
-            "Requirement": {
-                "RowName": "Fertility_Serum"
-            },
-            "RecipeSets": [
-                {
-                    "RowName": "Animal_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "MetaResource",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5
-                }
-            ],
-            "QueryInputs": [
-                {
-                    "Query": {
-                        "RowName": "Any_Fruit",
-                        "DataTableName": "D_CraftingTags"
-                    },
-                    "Count": 10
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Fertility_Serum_Moa",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "CookingStation"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Homestead"
-                }
-            }
-        },
-        {
-            "Name": "Fertility_Serum_Buffalo_Exotic",
-            "Requirement": {
-                "RowName": "Fertility_Serum"
-            },
-            "RecipeSets": [
-                {
-                    "RowName": "Animal_Bench",
-                    "DataTableName": "D_RecipeSets"
-                }
-            ],
-            "Inputs": [
-                {
-                    "Element": {
-                        "RowName": "MetaResource",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 5
-                }
-            ],
-            "QueryInputs": [
-                {
-                    "Query": {
-                        "RowName": "Any_Herb",
-                        "DataTableName": "D_CraftingTags"
-                    },
-                    "Count": 10
-                }
-            ],
-            "Outputs": [
-                {
-                    "Element": {
-                        "RowName": "Fertility_Serum_Buffalo",
-                        "DataTableName": "D_ItemTemplate"
-                    },
-                    "Count": 1,
-                    "DynamicProperties": [],
-                    "Alterations": []
-                }
-            ],
-            "Audio": {
-                "RowName": "CookingStation"
-            },
-            "Metadata": {
-                "RequiredFeatureLevel": {
-                    "RowName": "Homestead"
-                }
-            }
-        },
-        {
             "Name": "Fertility_Serum_Pig_Exotic",
             "Requirement": {
                 "RowName": "Fertility_Serum"
@@ -115365,6 +115452,55 @@
                 {
                     "Element": {
                         "RowName": "Fertility_Serum_Pig",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Homestead"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Sheep",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Condensed_Enzymes",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3
+                }
+            ],
+            "QueryInputs": [
+                {
+                    "Query": {
+                        "RowName": "Any_Grain",
+                        "DataTableName": "D_CraftingTags"
+                    },
+                    "Count": 10
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Sheep",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -117309,7 +117445,7 @@
                         "RowName": "Plant_Extract",
                         "DataTableName": "D_ItemsStatic"
                     },
-                    "Count": 100
+                    "Count": 10
                 }
             ],
             "Outputs": [
@@ -117318,7 +117454,7 @@
                         "RowName": "Ren",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 1,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -117349,7 +117485,7 @@
                         "RowName": "Any_Fruit",
                         "DataTableName": "D_CraftingTags"
                     },
-                    "Count": 100
+                    "Count": 30
                 }
             ],
             "Outputs": [
@@ -117358,7 +117494,7 @@
                         "RowName": "Ren",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 3,
+                    "Count": 1,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -117389,7 +117525,7 @@
                         "RowName": "Any_Vegetable",
                         "DataTableName": "D_CraftingTags"
                     },
-                    "Count": 100
+                    "Count": 30
                 }
             ],
             "Outputs": [
@@ -117398,7 +117534,7 @@
                         "RowName": "Ren",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 3,
+                    "Count": 1,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -117429,7 +117565,7 @@
                         "RowName": "Any_Herb",
                         "DataTableName": "D_CraftingTags"
                     },
-                    "Count": 100
+                    "Count": 20
                 }
             ],
             "Outputs": [
@@ -117438,7 +117574,7 @@
                         "RowName": "Ren",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 5,
+                    "Count": 1,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -117469,7 +117605,7 @@
                         "RowName": "Any_Grain",
                         "DataTableName": "D_CraftingTags"
                     },
-                    "Count": 250
+                    "Count": 50
                 }
             ],
             "Outputs": [
@@ -117478,7 +117614,7 @@
                         "RowName": "Ren",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 5,
+                    "Count": 1,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -117509,7 +117645,7 @@
                         "RowName": "Any_Speciality",
                         "DataTableName": "D_CraftingTags"
                     },
-                    "Count": 100
+                    "Count": 10
                 }
             ],
             "Outputs": [
@@ -117518,7 +117654,7 @@
                         "RowName": "Ren",
                         "DataTableName": "D_ItemTemplate"
                     },
-                    "Count": 10,
+                    "Count": 1,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
@@ -118236,7 +118372,7 @@
                 "DataTableName": "D_DLCPackageData",
                 "RowName": "Homestead"
             },
-            "RequiredMillijoules": 4000,
+            "RequiredMillijoules": 10000,
             "RecipeSets": [
                 {
                     "RowName": "Rustic_Decorations_Bench",
@@ -118295,14 +118431,10 @@
                 "DataTableName": "D_DLCPackageData",
                 "RowName": "Homestead"
             },
-            "RequiredMillijoules": 10000,
+            "RequiredMillijoules": 7500,
             "RecipeSets": [
                 {
-                    "RowName": "Masonry_Bench_T3",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Masonry_Bench_T4",
+                    "RowName": "Rustic_Decorations_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -118358,14 +118490,10 @@
                 "DataTableName": "D_DLCPackageData",
                 "RowName": "Homestead"
             },
-            "RequiredMillijoules": 10000,
+            "RequiredMillijoules": 7500,
             "RecipeSets": [
                 {
-                    "RowName": "Masonry_Bench_T3",
-                    "DataTableName": "D_RecipeSets"
-                },
-                {
-                    "RowName": "Masonry_Bench_T4",
+                    "RowName": "Rustic_Decorations_Bench",
                     "DataTableName": "D_RecipeSets"
                 }
             ],
@@ -118387,13 +118515,6 @@
                 {
                     "Element": {
                         "RowName": "Tree_Sap",
-                        "DataTableName": "D_ItemsStatic"
-                    },
-                    "Count": 10
-                },
-                {
-                    "Element": {
-                        "RowName": "Refined_Metal",
                         "DataTableName": "D_ItemsStatic"
                     },
                     "Count": 10
@@ -118924,6 +119045,100 @@
                 {
                     "Element": {
                         "RowName": "Fertility_Serum_Wolf",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Boar",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Condensed_Enzymes",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3
+                },
+                {
+                    "Element": {
+                        "RowName": "Seed",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Boar",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Boar_Exotic",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "MetaResource",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
+                },
+                {
+                    "Element": {
+                        "RowName": "Seed",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Boar",
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
@@ -119892,6 +120107,528 @@
                         "DataTableName": "D_ItemTemplate"
                     },
                     "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
+            "Name": "Butcher_Knife",
+            "Requirement": {
+                "RowName": "Butcher_Knife"
+            },
+            "RequiredMillijoules": 7000,
+            "RecipeSets": [
+                {
+                    "RowName": "Anvil_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Anvil_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Anvil_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseKnifeCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
+                },
+                {
+                    "Element": {
+                        "RowName": "Epoxy",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4
+                },
+                {
+                    "Element": {
+                        "RowName": "Steel_Ingot",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 6
+                },
+                {
+                    "Element": {
+                        "RowName": "Iron_Nail",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Butcher_Knife",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "AnvilBench"
+            }
+        },
+        {
+            "Name": "Molotov",
+            "Requirement": {
+                "RowName": "Molotov"
+            },
+            "RequiredMillijoules": 10000,
+            "RecipeSets": [
+                {
+                    "RowName": "Machining_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Fabricator",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Manufacturer",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Glass_Bottle",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                },
+                {
+                    "Element": {
+                        "RowName": "Rope",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 2
+                }
+            ],
+            "ResourceInputs": [
+                {
+                    "Type": {
+                        "Value": "Biofuel"
+                    },
+                    "RequiredUnits": 1000
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Molotov",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "MachiningBench"
+            }
+        },
+        {
+            "Name": "Carcass_Juvenile_Tundra_Monkey",
+            "RecipeSets": [
+                {
+                    "RowName": "Skinning_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "AnimalCarcass_Tundra_Monkey_Juvenile",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Raw_Meat",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Bone",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Stringy_Meat",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Tundra_Monkey",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Condensed_Enzymes",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3
+                },
+                {
+                    "Element": {
+                        "RowName": "Banana",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Tundra_Monkey",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Fertility_Serum_Tundra_Monkey_Exotic",
+            "Requirement": {
+                "RowName": "Fertility_Serum"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Animal_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "MetaResource",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 5
+                },
+                {
+                    "Element": {
+                        "RowName": "Banana",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Fertility_Serum_Tundra_Monkey",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CookingStation"
+            },
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "DangerousHorizons"
+                }
+            }
+        },
+        {
+            "Name": "Sawblade",
+            "Requirement": {
+                "RowName": "Sawblades"
+            },
+            "RequiredMillijoules": 7000,
+            "RecipeSets": [
+                {
+                    "RowName": "Anvil_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Anvil_Bench_T3",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Anvil_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Refined_Metal",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 3
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Sawblade",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "AnvilBench"
+            }
+        },
+        {
+            "Name": "Interior_Wood_Floor_Curved",
+            "Requirement": {
+                "RowName": "Interior_Wood_Advanced"
+            },
+            "RecipeSets": [
+                {
+                    "RowName": "Carpentry_Bench",
+                    "DataTableName": "D_RecipeSets"
+                },
+                {
+                    "RowName": "Carpentry_Bench_T4",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "ResourceCostMultipliers": [
+                {
+                    "Value": "BaseWoodBuildingCraftingCost_+%"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Refined",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 15
+                },
+                {
+                    "Element": {
+                        "RowName": "Copper_Nail",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 4
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Wood_Floor_Refined_Curved",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 1,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "CarpentryBench"
+            }
+        },
+        {
+            "Name": "Carcass_Komodo",
+            "RecipeSets": [
+                {
+                    "RowName": "Skinning_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "AnimalCarcass_Komodo",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Raw_Meat",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 16,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Bone",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Stringy_Meat",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                }
+            ],
+            "Audio": {
+                "RowName": "SkinningBench"
+            }
+        },
+        {
+            "Name": "Carcass_Lava_Komodo",
+            "RecipeSets": [
+                {
+                    "RowName": "Skinning_Bench",
+                    "DataTableName": "D_RecipeSets"
+                }
+            ],
+            "Inputs": [
+                {
+                    "Element": {
+                        "RowName": "AnimalCarcass_Lava_Komodo",
+                        "DataTableName": "D_ItemsStatic"
+                    },
+                    "Count": 1
+                }
+            ],
+            "Outputs": [
+                {
+                    "Element": {
+                        "RowName": "Raw_Meat",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 2,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Leather",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 16,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Fur",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 3,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Bone",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
+                    "DynamicProperties": [],
+                    "Alterations": []
+                },
+                {
+                    "Element": {
+                        "RowName": "Stringy_Meat",
+                        "DataTableName": "D_ItemTemplate"
+                    },
+                    "Count": 5,
                     "DynamicProperties": [],
                     "Alterations": []
                 }
